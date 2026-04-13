@@ -1,0 +1,337 @@
+[0.138s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/qt_ros_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/qt_ros_test -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/install/qt_ros_test
+[0.729s] -- The C compiler identification is GNU 11.4.0
+[1.012s] -- The CXX compiler identification is GNU 11.4.0
+[1.060s] -- Detecting C compiler ABI info
+[1.624s] -- Detecting C compiler ABI info - done
+[1.644s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.645s] -- Detecting C compile features
+[1.647s] -- Detecting C compile features - done
+[1.654s] -- Detecting CXX compiler ABI info
+[2.241s] -- Detecting CXX compiler ABI info - done
+[2.255s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.256s] -- Detecting CXX compile features
+[2.258s] -- Detecting CXX compile features - done
+[2.364s] -- Found ament_cmake: 1.3.7 (/home/wheeltec/autoware/install/ament_cmake/share/ament_cmake/cmake)
+[3.729s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.278s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[6.230s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[6.404s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[6.589s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[6.885s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[7.270s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.705s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[7.825s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[8.750s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[8.951s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[10.335s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[10.556s] -- Found FastRTPS: /opt/ros/humble/include  
+[10.964s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.239s] -- Looking for pthread.h
+[11.819s] -- Looking for pthread.h - found
+[11.820s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.418s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.421s] -- Found Threads: TRUE  
+[12.865s] -- Found rclcpp_action: 16.0.11 (/opt/ros/humble/share/rclcpp_action/cmake)
+[13.280s] -- Found rclcpp_lifecycle: 16.0.11 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[13.572s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[13.696s] -- Found image_transport: 3.1.10 (/opt/ros/humble/share/image_transport/cmake)
+[14.363s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[14.711s] -- Found CUDA: /usr/local/cuda (found suitable exact version "12.6") 
+[15.713s] -- Configuring done
+[15.764s] -- Generating done
+[15.774s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/build/qt_ros_test
+[15.814s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/qt_ros_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/qt_ros_test -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/install/qt_ros_test
+[15.821s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/qt_ros_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/qt_ros_test -- -j6 -l6
+[16.288s] [  7%] [34m[1mGenerating include/qt_ros_test/moc_qnode.cpp[0m
+[16.290s] [ 14%] [34m[1mGenerating include/qt_ros_test/moc_main_window.cpp[0m
+[16.299s] [ 21%] [34m[1mGenerating ui_main_window.h[0m
+[16.302s] [ 28%] [34m[1mGenerating include/qt_ros_test/moc_CCtrlDashBoard.cpp[0m
+[16.322s] [ 35%] [34m[1mGenerating qrc_images.cpp[0m
+[16.619s] [ 50%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/src/qnode.cpp.o[0m
+[16.619s] [ 50%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/src/CCtrlDashBoard.cpp.o[0m
+[16.620s] [ 57%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/include/qt_ros_test/moc_CCtrlDashBoard.cpp.o[0m
+[16.632s] [ 64%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/qrc_images.cpp.o[0m
+[16.633s] [ 71%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/src/main.cpp.o[0m
+[16.645s] [ 78%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/src/main_window.cpp.o[0m
+[17.142s] [ 85%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/include/qt_ros_test/moc_main_window.cpp.o[0m
+[20.686s] [ 92%] [32mBuilding CXX object CMakeFiles/qt_ros_test.dir/include/qt_ros_test/moc_qnode.cpp.o[0m
+[34.114s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In destructor ‘[01m[Kvirtual qt_ros_test::MainWindow::~MainWindow()[m[K’:
+[34.114s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:86:22:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic int QProcess::execute(const QString&)[m[K’ is deprecated: Use QProcess::execute(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.114s]    86 |     [01;35m[KQProcess::execute("killall -s INT -w ros2\n")[m[K;
+[34.114s]       |     [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.114s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.115s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.115s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.115s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.115s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:265:16:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.115s]   265 |     static int [01;36m[Kexecute[m[K(const QString &command);
+[34.115s]       |                [01;36m[K^~~~~~~[m[K
+[34.116s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::init_cmd()[m[K’:
+[34.116s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:114:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid QProcess::start(const QString&, QIODevice::OpenMode)[m[K’ is deprecated: Use QProcess::start(const QString &program, const QStringList &arguments,OpenMode mode = ReadWrite) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.116s]   114 |     [01;35m[K_cmd->start("bash")[m[K;
+[34.116s]       |     [01;35m[K~~~~~~~~~~~^~~~~~~~[m[K
+[34.116s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.116s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.116s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.116s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.116s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:168:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.117s]   168 |     void [01;36m[Kstart[m[K(const QString &command, OpenMode mode = ReadWrite);
+[34.117s]       |          [01;36m[K^~~~~[m[K
+[34.119s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::closeroslaunch()[m[K’:
+[34.119s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:155:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid QProcess::start(const QString&, QIODevice::OpenMode)[m[K’ is deprecated: Use QProcess::start(const QString &program, const QStringList &arguments,OpenMode mode = ReadWrite) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.120s]   155 |     [01;35m[Kkillall->start("sh /home/wheeltec/wheeltec_ros2/src/qt_ros_test/script/killall.sh\n")[m[K;
+[34.120s]       |     [01;35m[K~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.120s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.120s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.120s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.120s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.120s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:168:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.120s]   168 |     void [01;36m[Kstart[m[K(const QString &command, OpenMode mode = ReadWrite);
+[34.121s]       |          [01;36m[K^~~~~[m[K
+[34.121s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::slot_cmd_read()[m[K’:
+[34.121s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:170:10:[m[K [01;35m[Kwarning: [m[KISO C++ forbids variable length array ‘[01m[Kbuffer[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wvla-Wvla]8;;[m[K]
+[34.121s]   170 |     char [01;35m[Kbuffer[m[K[maxSize];
+[34.121s]       |          [01;35m[K^~~~~~[m[K
+[34.130s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::ReadSettings()[m[K’:
+[34.130s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:226:10:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kremember[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+[34.130s]   226 |     bool [01;35m[Kremember[m[K = settings.value("remember_settings", false).toBool();
+[34.131s]       |          [01;35m[K^~~~~~~~[m[K
+[34.131s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:227:10:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kchecked[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+[34.131s]   227 |     bool [01;35m[Kchecked[m[K = settings.value("use_environment_variables", false).toBool();
+[34.131s]       |          [01;35m[K^~~~~~~[m[K
+[34.178s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_2dmap_clicked(bool)[m[K’:
+[34.179s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:510:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.179s]   510 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.179s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.179s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.180s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.180s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.180s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.180s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.180s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.180s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.180s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:516:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.180s]   516 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.181s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.181s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.181s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.181s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.181s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.181s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.181s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.181s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.183s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_2dmap_2_clicked()[m[K’:
+[34.183s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:539:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.183s]   539 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.183s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.183s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.183s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.184s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.184s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.184s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.184s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.184s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.184s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:545:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.184s]   545 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.184s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.184s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.185s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.185s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.185s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.185s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.185s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.185s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.185s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_2dmap_3_clicked()[m[K’:
+[34.186s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:568:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.186s]   568 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.186s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.186s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.186s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.186s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.186s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.186s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.187s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.187s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.187s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:574:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.187s]   574 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.187s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.187s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.188s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.188s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.188s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.188s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.188s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.189s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.189s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_2dnav_clicked(bool)[m[K’:
+[34.189s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:612:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.189s]   612 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.189s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.189s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.189s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.189s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.190s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.190s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.190s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.190s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.190s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:618:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.190s]   618 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.191s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.191s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.191s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.191s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.191s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.191s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.191s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.192s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.192s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_3dmap_clicked(bool)[m[K’:
+[34.192s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:640:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.192s]   640 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.192s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.193s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.193s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.193s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.193s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.193s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.193s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.194s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.194s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:646:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.194s]   646 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.194s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.194s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.194s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.194s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.194s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.194s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.195s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.195s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.195s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_3dnav_clicked(bool)[m[K’:
+[34.195s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:674:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.195s]   674 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.195s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.195s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.195s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.196s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.196s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.196s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.196s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.197s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.197s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:680:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.197s]   680 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.197s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.197s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.198s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.198s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.198s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.198s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.198s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.199s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.199s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_orb_clicked(bool)[m[K’:
+[34.199s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:800:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.199s]   800 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.199s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.199s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.200s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.200s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.200s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.200s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.200s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.200s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.200s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:806:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.201s]   806 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.201s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.201s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.201s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.201s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.201s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.201s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.202s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.202s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.202s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_rrt_clicked(bool)[m[K’:
+[34.202s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:828:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.202s]   828 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.202s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.203s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.203s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.203s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.203s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.203s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.204s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.204s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.204s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:834:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.204s]   834 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.204s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.204s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.204s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.204s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.205s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.205s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.206s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.206s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.206s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_path1_clicked(bool)[m[K’:
+[34.207s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:854:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.207s]   854 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.207s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.208s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.208s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.208s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.208s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.208s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.208s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.209s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.209s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:860:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.209s]   860 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.209s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.209s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.209s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.209s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.210s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.210s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.210s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.210s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.210s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:[m[K In member function ‘[01m[Kvoid qt_ros_test::MainWindow::on_pushButton_path2_clicked(bool)[m[K’:
+[34.210s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:880:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.211s]   880 |         [01;35m[Krviz_cmd->startDetached("rviz2")[m[K;
+[34.211s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+[34.211s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.211s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.211s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.212s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.212s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.212s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.212s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[34.212s] [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:886:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstatic bool QProcess::startDetached(const QString&)[m[K’ is deprecated: Use QProcess::startDetached(const QString &program, const QStringList &arguments) instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[34.212s]   886 |         [01;35m[Krviz_cmd->startDetached("killall -2 rviz2")[m[K;
+[34.213s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[34.213s] In file included from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/QtCore:170[m[K,
+[34.213s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGuiDepends:3[m[K,
+[34.213s]                  from [01m[K/usr/include/aarch64-linux-gnu/qt5/QtGui/QtGui:3[m[K,
+[34.213s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/qt_ros_test/src/main_window.cpp:12[m[K:
+[34.213s] [01m[K/usr/include/aarch64-linux-gnu/qt5/QtCore/qprocess.h:280:17:[m[K [01;36m[Knote: [m[Kdeclared here
+[34.214s]   280 |     static bool [01;36m[KstartDetached[m[K(const QString &command);
+[34.214s]       |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[69.212s] [100%] [32m[1mLinking CXX executable qt_ros_test[0m
+[77.819s] [100%] Built target qt_ros_test
+[77.934s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/qt_ros_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/qt_ros_test -- -j6 -l6
+[78.040s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/qt_ros_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/qt_ros_test
+[78.136s] -- Install configuration: ""
+[78.137s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/lib/qt_ros_test/qt_ros_test
+[78.210s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/install/qt_ros_test/lib/qt_ros_test/qt_ros_test" to ""
+[78.210s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/launch
+[78.211s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/launch/keyboard_camera.launch.py
+[78.211s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/launch/qt_ros_test.launch.py
+[78.211s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/ament_index/resource_index/package_run_dependencies/qt_ros_test
+[78.211s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/ament_index/resource_index/parent_prefix_path/qt_ros_test
+[78.212s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/environment/ament_prefix_path.sh
+[78.212s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/environment/ament_prefix_path.dsv
+[78.213s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/environment/path.sh
+[78.213s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/environment/path.dsv
+[78.213s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/local_setup.bash
+[78.213s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/local_setup.sh
+[78.214s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/local_setup.zsh
+[78.214s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/local_setup.dsv
+[78.214s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/package.dsv
+[78.215s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/ament_index/resource_index/packages/qt_ros_test
+[78.215s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/cmake/qt_ros_testConfig.cmake
+[78.215s] -- Installing: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/cmake/qt_ros_testConfig-version.cmake
+[78.215s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/qt_ros_test/share/qt_ros_test/package.xml
+[78.221s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/qt_ros_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/qt_ros_test

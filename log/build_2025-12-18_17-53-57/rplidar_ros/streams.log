@@ -1,0 +1,54 @@
+[0.372s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/rplidar_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/rplidar_ros -- -j6 -l6
+[0.782s] [ 47%] Built target rplidar_node
+[0.970s] [ 52%] Built target rplidar_client
+[1.164s] [100%] Built target rplidar_composition
+[1.899s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/rplidar_ros -- -j6 -l6
+[1.911s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/rplidar_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/rplidar_ros
+[1.960s] -- Install configuration: ""
+[1.960s] -- Execute custom install script
+[1.960s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a1_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a2m12_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a2m7_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a2m8_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a3_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_c1_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s1_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s1_tcp_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s2_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s2e_launch.py
+[1.961s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s3_launch.py
+[1.962s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/rplidar_t1_launch.py
+[1.962s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a1_launch.py
+[1.962s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a2m12_launch.py
+[1.962s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a2m7_launch.py
+[1.963s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a2m8_launch.py
+[1.966s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a3_launch.py
+[1.966s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_c1_launch.py
+[1.966s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s1_launch.py
+[1.966s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s1_tcp_launch.py
+[1.966s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s2_launch.py
+[1.966s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s2e_launch.py
+[1.966s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s3_launch.py
+[1.967s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_t1_launch.py
+[1.967s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/rviz/rplidar_ros.rviz
+[1.967s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/lib/rplidar_ros/rplidar_node
+[1.971s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/lib/rplidar_ros/rplidar_composition
+[1.980s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/lib/rplidar_ros/rplidar_client
+[1.981s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/ament_index/resource_index/package_run_dependencies/rplidar_ros
+[1.981s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/ament_index/resource_index/parent_prefix_path/rplidar_ros
+[1.983s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/environment/ament_prefix_path.sh
+[1.983s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/environment/ament_prefix_path.dsv
+[1.985s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/environment/path.sh
+[1.986s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/environment/path.dsv
+[1.987s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/local_setup.bash
+[1.988s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/local_setup.sh
+[1.994s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/local_setup.zsh
+[2.003s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/local_setup.dsv
+[2.003s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/package.dsv
+[2.046s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/ament_index/resource_index/packages/rplidar_ros
+[2.047s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.047s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.047s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/cmake/rplidar_rosConfig.cmake
+[2.048s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/cmake/rplidar_rosConfig-version.cmake
+[2.048s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/rplidar_ros/share/rplidar_ros/package.xml
+[2.062s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/rplidar_ros

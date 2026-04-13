@@ -1,0 +1,35 @@
+[0.103s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/web_video_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/web_video_server -- -j6 -l6
+[0.307s] [35m[1mConsolidate compiler generated dependencies of target web_video_server[0m
+[0.540s] [100%] Built target web_video_server
+[0.572s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/web_video_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/web_video_server -- -j6 -l6
+[0.577s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/web_video_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/web_video_server
+[1.333s] -- Install configuration: ""
+[1.333s] -- Execute custom install script
+[1.333s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/lib/web_video_server/web_video_server
+[1.334s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/ament_index/resource_index/package_run_dependencies/web_video_server
+[1.334s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/ament_index/resource_index/parent_prefix_path/web_video_server
+[1.336s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/environment/ament_prefix_path.sh
+[1.336s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/environment/ament_prefix_path.dsv
+[1.337s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/environment/path.sh
+[1.337s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/environment/path.dsv
+[1.337s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/local_setup.bash
+[1.338s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/local_setup.sh
+[1.338s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/local_setup.zsh
+[1.339s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/local_setup.dsv
+[1.339s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/package.dsv
+[1.339s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/ament_index/resource_index/packages/web_video_server
+[1.340s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/cmake/web_video_serverConfig.cmake
+[1.340s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/cmake/web_video_serverConfig-version.cmake
+[1.341s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/web_video_server/share/web_video_server/package.xml
+[1.341s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server
+[1.341s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/vp8_streamer.h
+[1.342s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/ros_compressed_streamer.h
+[1.342s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/libav_streamer.h
+[1.343s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/jpeg_streamers.h
+[1.343s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/vp9_streamer.h
+[1.343s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/image_streamer.h
+[1.343s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/multipart_stream.h
+[1.344s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/h264_streamer.h
+[1.344s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/png_streamers.h
+[1.344s] -- Installing: /home/wheeltec/wheeltec_ros2/install/web_video_server/include/web_video_server/web_video_server.h
+[1.356s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/web_video_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/web_video_server

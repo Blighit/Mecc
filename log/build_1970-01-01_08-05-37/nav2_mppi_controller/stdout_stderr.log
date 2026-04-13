@@ -1,0 +1,138 @@
+gmake: Warning: File 'Makefile' has modification time 1766050366 s in the future
+gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1766050367 s in the future
+gmake[2]: Warning: File 'CMakeFiles/mppi_controller.dir/flags.make' has modification time 1766050365 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'CMakeFiles/mppi_controller.dir/flags.make' has modification time 1766050365 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 17%] Built target mppi_controller
+gmake[2]: Warning: File 'gtest/CMakeFiles/gtest_main.dir/flags.make' has modification time 1766050366 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'gtest/CMakeFiles/gtest_main.dir/flags.make' has modification time 1766050366 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 21%] Built target gtest_main
+gmake[2]: Warning: File 'gtest/CMakeFiles/gtest.dir/flags.make' has modification time 1766050366 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'gtest/CMakeFiles/gtest.dir/flags.make' has modification time 1766050366 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 26%] Built target gtest
+gmake[2]: Warning: File 'CMakeFiles/mppi_critics.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'CMakeFiles/mppi_critics.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 47%] Built target mppi_critics
+gmake[2]: Warning: File 'test/CMakeFiles/parameter_handler_test.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/parameter_handler_test.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 52%] Built target parameter_handler_test
+gmake[2]: Warning: File 'test/CMakeFiles/motion_model_tests.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/motion_model_tests.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 56%] Built target motion_model_tests
+gmake[2]: Warning: File 'test/CMakeFiles/trajectory_visualizer_tests.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/trajectory_visualizer_tests.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 60%] Built target trajectory_visualizer_tests
+gmake[2]: Warning: File 'test/CMakeFiles/utils_test.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/utils_test.dir/flags.make' has modification time 1766050364 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 65%] Built target utils_test
+gmake[2]: Warning: File 'test/CMakeFiles/path_handler_test.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/path_handler_test.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 69%] Built target path_handler_test
+gmake[2]: Warning: File 'test/CMakeFiles/critic_manager_test.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/critic_manager_test.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 73%] Built target critic_manager_test
+gmake[2]: Warning: File 'test/CMakeFiles/optimizer_unit_tests.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/optimizer_unit_tests.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 78%] Built target optimizer_unit_tests
+gmake[2]: Warning: File 'test/CMakeFiles/critics_tests.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/critics_tests.dir/flags.make' has modification time 1766050363 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 82%] Built target critics_tests
+gmake[2]: Warning: File 'test/CMakeFiles/noise_generator_test.dir/flags.make' has modification time 1766050362 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/noise_generator_test.dir/flags.make' has modification time 1766050361 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 86%] Built target noise_generator_test
+gmake[2]: Warning: File 'test/CMakeFiles/models_test.dir/flags.make' has modification time 1766050361 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/models_test.dir/flags.make' has modification time 1766050361 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 91%] Built target models_test
+gmake[2]: Warning: File 'test/CMakeFiles/controller_state_transition_test.dir/flags.make' has modification time 1766050361 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/controller_state_transition_test.dir/flags.make' has modification time 1766050361 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 95%] Built target controller_state_transition_test
+gmake[2]: Warning: File 'test/CMakeFiles/optimizer_smoke_test.dir/flags.make' has modification time 1766050360 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'test/CMakeFiles/optimizer_smoke_test.dir/flags.make' has modification time 1766050360 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target optimizer_smoke_test
+gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake: warning:  Clock skew detected.  Your build may be incomplete.
+-- Install configuration: "Release"
+-- Execute custom install script
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/lib/libmppi_controller.so
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/lib/libmppi_critics.so
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/controller.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critic_data.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critic_function.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critic_manager.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/constraint_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/goal_angle_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/goal_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/obstacles_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/path_align_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/path_angle_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/path_follow_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/prefer_forward_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/critics/twirling_critic.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/models/constraints.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/models/control_sequence.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/models/optimizer_settings.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/models/path.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/models/state.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/models/trajectories.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/motion_models.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/optimizer.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/tools/noise_generator.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/tools/parameters_handler.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/tools/path_handler.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/tools/trajectory_visualizer.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/include//nav2_mppi_controller/tools/utils.hpp
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/environment/library_path.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/environment/library_path.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller//mppic.xml
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller//critics.xml
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/ament_index/resource_index/package_run_dependencies/nav2_mppi_controller
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/ament_index/resource_index/parent_prefix_path/nav2_mppi_controller
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/environment/path.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/environment/path.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/local_setup.bash
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/local_setup.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/local_setup.zsh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/local_setup.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/package.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/ament_index/resource_index/packages/nav2_mppi_controller
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/ament_index/resource_index/nav2_core__pluginlib__plugin/nav2_mppi_controller
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/ament_index/resource_index/nav2_mppi_controller__pluginlib__plugin/nav2_mppi_controller
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/cmake/nav2_mppi_controllerConfig.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/cmake/nav2_mppi_controllerConfig-version.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_mppi_controller/share/nav2_mppi_controller/package.xml

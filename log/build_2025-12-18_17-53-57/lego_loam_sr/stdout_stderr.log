@@ -1,0 +1,80 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/imageProjection.cpp.o[0m
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/include/lego_loam/utility.h:9[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/imageProjection.h:4[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/imageProjection.cpp:30[m[K:
+[01m[K/opt/ros/humble/include/tf2_geometry_msgs/tf2_geometry_msgs/tf2_geometry_msgs.h:35:2:[m[K [01;35m[Kwarning: [m[K#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   35 | #[01;35m[Kwarning[m[K This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
+      |  [01;35m[K^~~~~~~[m[K
+[ 33%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/main.cpp.o[0m
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/include/lego_loam/utility.h:9[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/featureAssociation.h:4[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/main.cpp:4[m[K:
+[01m[K/opt/ros/humble/include/tf2_geometry_msgs/tf2_geometry_msgs/tf2_geometry_msgs.h:35:2:[m[K [01;35m[Kwarning: [m[K#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   35 | #[01;35m[Kwarning[m[K This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
+      |  [01;35m[K^~~~~~~[m[K
+[ 50%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/transformFusion.cpp.o[0m
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/include/lego_loam/utility.h:9[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/transformFusion.h:4[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/transformFusion.cpp:33[m[K:
+[01m[K/opt/ros/humble/include/tf2_geometry_msgs/tf2_geometry_msgs/tf2_geometry_msgs.h:35:2:[m[K [01;35m[Kwarning: [m[K#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   35 | #[01;35m[Kwarning[m[K This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
+      |  [01;35m[K^~~~~~~[m[K
+[ 66%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/mapOptmization.cpp.o[0m
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/include/lego_loam/utility.h:9[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/mapOptimization.h:4[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/mapOptmization.cpp:37[m[K:
+[01m[K/opt/ros/humble/include/tf2_geometry_msgs/tf2_geometry_msgs/tf2_geometry_msgs.h:35:2:[m[K [01;35m[Kwarning: [m[K#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   35 | #[01;35m[Kwarning[m[K This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
+      |  [01;35m[K^~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/mapOptmization.cpp:[m[K In destructor ‘[01m[Kvirtual MapOptimization::~MapOptimization()[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/mapOptmization.cpp:131:22:[m[K [01;35m[Kwarning: [m[Kconverting to ‘[01m[Knav_msgs::msg::Odometry[m[K’ {aka ‘[01m[Knav_msgs::msg::Odometry_<std::allocator<void> >[m[K’} from initializer list would use explicit constructor ‘[01m[Knav_msgs::msg::Odometry_<ContainerAllocator>::Odometry_(rosidl_runtime_cpp::MessageInitialization) [with ContainerAllocator = std::allocator<void>][m[K’
+  131 |   [01;35m[K_input_channel.send({})[m[K;
+      |   [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/mapOptmization.cpp:131:22:[m[K [01;36m[Knote: [m[Kin C++11 and above a default constructor can be explicit
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/mapOptmization.cpp:[m[K In member function ‘[01m[Kvoid MapOptimization::publishGlobalMapThread()[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/mapOptmization.cpp:261:20:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::shared_ptr<pcl::PointCloud<pcl::PointXYZI> > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+  261 |   for(int i = 0; [01;35m[Ki < cornerCloudKeyFrames.size()[m[K; i++) {
+      |                  [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 83%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/featureAssociation.cpp.o[0m
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/include/lego_loam/utility.h:9[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/featureAssociation.h:4[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/featureAssociation.cpp:37[m[K:
+[01m[K/opt/ros/humble/include/tf2_geometry_msgs/tf2_geometry_msgs/tf2_geometry_msgs.h:35:2:[m[K [01;35m[Kwarning: [m[K#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   35 | #[01;35m[Kwarning[m[K This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
+      |  [01;35m[K^~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/featureAssociation.cpp:[m[K In destructor ‘[01m[Kvirtual FeatureAssociation::~FeatureAssociation()[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/featureAssociation.cpp:110:22:[m[K [01;35m[Kwarning: [m[Kconverting to ‘[01m[Kcloud_msgs::msg::CloudInfo[m[K’ {aka ‘[01m[Kcloud_msgs::msg::CloudInfo_<std::allocator<void> >[m[K’} from initializer list would use explicit constructor ‘[01m[Kcloud_msgs::msg::CloudInfo_<ContainerAllocator>::CloudInfo_(rosidl_runtime_cpp::MessageInitialization) [with ContainerAllocator = std::allocator<void>][m[K’
+  110 |   [01;35m[K_input_channel.send({})[m[K;
+      |   [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/LeGO-LOAM/src/featureAssociation.cpp:110:22:[m[K [01;36m[Knote: [m[Kin C++11 and above a default constructor can be explicit
+[100%] [32m[1mLinking CXX executable lego_loam_sr[0m
+[100%] Built target lego_loam_sr
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/lib/lego_loam_sr/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/config/loam_config.yaml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/block.png
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/dataset-demo.gif
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/demo.gif
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/google-earth.png
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/odometry.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/run.launch (copy).py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/run.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/seg-total.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/rviz/test.rviz
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/ament_index/resource_index/package_run_dependencies/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/ament_index/resource_index/parent_prefix_path/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/ament_prefix_path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/ament_prefix_path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.bash
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.zsh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/package.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/ament_index/resource_index/packages/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/cmake/lego_loam_srConfig.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/cmake/lego_loam_srConfig-version.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/package.xml

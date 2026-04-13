@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs/ahrs_driver_node" "/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs/imu_tf_node" "TARGETS" "ahrs_driver_node" "imu_tf_node" "DESTINATION" "lib/fdilink_ahrs")

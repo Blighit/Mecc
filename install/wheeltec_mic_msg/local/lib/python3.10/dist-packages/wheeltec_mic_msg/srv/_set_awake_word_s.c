@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/wheeltec_mic_msg/rosidl_generator_py/wheeltec_mic_msg/srv/_set_awake_word_s.c

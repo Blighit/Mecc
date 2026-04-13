@@ -1,0 +1,36 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/imageProjection.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/main.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/transformFusion.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/mapOptmization.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/lego_loam_sr.dir/src/featureAssociation.cpp.o[0m
+[100%] [32m[1mLinking CXX executable lego_loam_sr[0m
+[100%] Built target lego_loam_sr
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/lib/lego_loam_sr/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/config/loam_config.yaml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/block.png
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/dataset-demo.gif
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/demo.gif
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/google-earth.png
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/odometry.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/run.launch (copy).py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/run.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/launch/seg-total.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/rviz/test.rviz
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/ament_index/resource_index/package_run_dependencies/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/ament_index/resource_index/parent_prefix_path/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/ament_prefix_path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/ament_prefix_path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/environment/path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.bash
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.zsh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/local_setup.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/package.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/ament_index/resource_index/packages/lego_loam_sr
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/cmake/lego_loam_srConfig.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/cmake/lego_loam_srConfig-version.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/lego_loam_sr/share/lego_loam_sr/package.xml

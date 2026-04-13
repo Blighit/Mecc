@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/aruco_ros-humble-devel/aruco_msgs/msg/Marker.msg

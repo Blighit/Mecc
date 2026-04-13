@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/ldlidar/ament_cmake_core/ldlidarConfig.cmake

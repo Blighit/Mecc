@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-317888fdff17427941ea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lslidar_driver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lslidar_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lslidar_driver-Release-14af431ad28275e00c63.json",
+					"name" : "lslidar_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lslidar_driver_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lslidar_driver_node-Release-c873ad6ce2278027f00e.json",
+					"name" : "lslidar_driver_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lslidar_driver_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lslidar_driver_uninstall-Release-8d56562791237b362d8c.json",
+					"name" : "lslidar_driver_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-237bad7c54dce964f98a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wheeltec/wheeltec_ros2/build/lslidar_driver",
+		"source" : "/home/wheeltec/wheeltec_ros2/src/wheeltec_lidar_ros2/lslidar_ros2/lslidar_driver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

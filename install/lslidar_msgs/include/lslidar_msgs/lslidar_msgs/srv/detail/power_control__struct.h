@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/lslidar_msgs/rosidl_generator_c/lslidar_msgs/srv/detail/power_control__struct.h

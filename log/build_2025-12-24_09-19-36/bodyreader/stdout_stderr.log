@@ -1,0 +1,51 @@
+[35m[1mConsolidate compiler generated dependencies of target main[0m
+[ 16%] Built target main
+[35m[1mConsolidate compiler generated dependencies of target image_trans[0m
+[ 33%] Built target image_trans
+[35m[1mConsolidate compiler generated dependencies of target feedback[0m
+[ 50%] Built target feedback
+[35m[1mConsolidate compiler generated dependencies of target interaction[0m
+[ 66%] Built target interaction
+[35m[1mConsolidate compiler generated dependencies of target follower[0m
+[ 83%] Built target follower
+[35m[1mConsolidate compiler generated dependencies of target bodydata_process[0m
+[100%] Built target bodydata_process
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/display.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/compressed.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/main
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/bodydata_process
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/follower
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/interaction
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/feedback
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/lib/bodyreader/image_trans
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/launch/bodyfollow.launch.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/launch/bodyinteraction.launch.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/launch/final.launch.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/akimbo_cal.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/backward.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/cal_finish.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/fall.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/forward.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/left_translation.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/mode_switch.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/recovery.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/right_translation.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/turn_left.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/audio/turn_right.wav
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/ament_index/resource_index/package_run_dependencies/bodyreader
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/ament_index/resource_index/parent_prefix_path/bodyreader
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/environment/path.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/environment/path.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/local_setup.bash
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/local_setup.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/local_setup.zsh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/local_setup.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/package.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/ament_index/resource_index/packages/bodyreader
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/cmake/bodyreaderConfig.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/cmake/bodyreaderConfig-version.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/bodyreader/share/bodyreader/package.xml

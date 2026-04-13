@@ -1,0 +1,7 @@
+[01m[K/home/wheeltec/wheeltec_ros2/src/turn_on_wheeltec_robot/src/wheeltec_robot.cpp:[m[K In destructor ‘[01m[Kvirtual turn_on_robot::~turn_on_robot()[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/turn_on_wheeltec_robot/src/wheeltec_robot.cpp:1102:19:[m[K [01;35m[Kwarning: [m[Kunsigned conversion from ‘[01m[Kshort int[m[K’ to ‘[01m[Kuint8_t[m[K’ {aka ‘[01m[Kunsigned char[m[K’} changes value from ‘[01m[K1570[m[K’ to ‘[01m[K34[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Woverflow-Woverflow]8;;[m[K]
+ 1102 |   Send_Data.tx[4]=[01;35m[K(short)(1.5707*1000)[m[K;
+      |                   [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/turn_on_wheeltec_robot/src/wheeltec_robot.cpp:1105:19:[m[K [01;35m[Kwarning: [m[Kunsigned conversion from ‘[01m[Kshort int[m[K’ to ‘[01m[Kuint8_t[m[K’ {aka ‘[01m[Kunsigned char[m[K’} changes value from ‘[01m[K391[m[K’ to ‘[01m[K135[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Woverflow-Woverflow]8;;[m[K]
+ 1105 |   Send_Data.tx[6]=[01;35m[K(short)(0.3917*1000)[m[K;
+      |                   [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K

@@ -1,0 +1,39 @@
+[0.391s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/hipnuc_imu': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/hipnuc_imu -- -j6 -l6
+[0.516s] gmake: Warning: File 'Makefile' has modification time 1766048668 s in the future
+[0.782s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1766048667 s in the future
+[0.800s] gmake[2]: Warning: File 'CMakeFiles/talker.dir/flags.make' has modification time 1766048667 s in the future
+[0.911s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.937s] gmake[2]: Warning: File 'CMakeFiles/talker.dir/flags.make' has modification time 1766048667 s in the future
+[0.940s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.052s] [ 60%] Built target talker
+[1.078s] gmake[2]: Warning: File 'CMakeFiles/listener.dir/flags.make' has modification time 1766048667 s in the future
+[1.183s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.206s] gmake[2]: Warning: File 'CMakeFiles/listener.dir/flags.make' has modification time 1766048667 s in the future
+[1.209s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.312s] [100%] Built target listener
+[1.314s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.408s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[1.739s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/hipnuc_imu' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/hipnuc_imu -- -j6 -l6
+[1.748s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/hipnuc_imu': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/hipnuc_imu
+[1.860s] -- Install configuration: ""
+[1.869s] -- Execute custom install script
+[1.870s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/lib/hipnuc_imu/talker
+[1.871s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/lib/hipnuc_imu/listener
+[1.872s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/launch/imu_spec_msg.launch.py
+[1.873s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/config/hipnuc_config.yaml
+[1.874s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/ament_index/resource_index/package_run_dependencies/hipnuc_imu
+[1.875s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/ament_index/resource_index/parent_prefix_path/hipnuc_imu
+[1.876s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/environment/ament_prefix_path.sh
+[1.876s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/environment/ament_prefix_path.dsv
+[1.877s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/environment/path.sh
+[1.882s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/environment/path.dsv
+[1.882s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/local_setup.bash
+[1.883s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/local_setup.sh
+[1.884s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/local_setup.zsh
+[1.884s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/local_setup.dsv
+[1.885s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/package.dsv
+[2.026s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/ament_index/resource_index/packages/hipnuc_imu
+[2.026s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/cmake/hipnuc_imuConfig.cmake
+[2.026s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/cmake/hipnuc_imuConfig-version.cmake
+[2.027s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/hipnuc_imu/share/hipnuc_imu/package.xml
+[2.035s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/hipnuc_imu' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/hipnuc_imu

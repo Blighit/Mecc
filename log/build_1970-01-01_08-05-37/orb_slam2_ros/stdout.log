@@ -1,0 +1,26 @@
+[  1%] Built target orb_slam2_ros__cpp
+[ 31%] Built target g2o
+[ 35%] Built target orb_slam2_ros__rosidl_typesupport_fastrtps_cpp
+[ 39%] Built target orb_slam2_ros__rosidl_typesupport_introspection_cpp
+[ 43%] Built target orb_slam2_ros__rosidl_typesupport_cpp
+[ 51%] Built target DBoW2
+[ 51%] Built target ament_cmake_python_symlink_orb_slam2_ros
+[ 70%] Built target orb_slam2_ros_core
+running egg_info
+writing orb_slam2_ros.egg-info/PKG-INFO
+writing dependency_links to orb_slam2_ros.egg-info/dependency_links.txt
+writing top-level names to orb_slam2_ros.egg-info/top_level.txt
+reading manifest file 'orb_slam2_ros.egg-info/SOURCES.txt'
+writing manifest file 'orb_slam2_ros.egg-info/SOURCES.txt'
+[ 70%] Built target ament_cmake_python_build_orb_slam2_ros_egg
+[ 74%] Built target orb_slam2_ros__rosidl_generator_c
+[ 78%] Built target orb_slam2_ros__rosidl_typesupport_fastrtps_c
+[ 82%] Built target orb_slam2_ros__rosidl_typesupport_c
+[ 86%] Built target orb_slam2_ros__rosidl_typesupport_introspection_c
+[ 86%] Built target orb_slam2_ros
+[ 87%] Built target orb_slam2_ros__py
+[ 90%] Built target orb_slam2_ros_rgbd
+[ 93%] Built target orb_slam2_ros__rosidl_generator_py
+[ 95%] Built target orb_slam2_ros__rosidl_typesupport_fastrtps_c__pyext
+[ 97%] Built target orb_slam2_ros__rosidl_typesupport_c__pyext
+[100%] Built target orb_slam2_ros__rosidl_typesupport_introspection_c__pyext

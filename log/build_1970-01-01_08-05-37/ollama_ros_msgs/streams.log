@@ -1,0 +1,190 @@
+[0.237s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs -- -j6 -l6
+[0.400s] gmake: Warning: File 'Makefile' has modification time 1766048313 s in the future
+[0.810s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1766048313 s in the future
+[0.861s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__cpp.dir/progress.make' has modification time 1766048313 s in the future
+[0.884s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_generator_c.dir/flags.make' has modification time 1766048313 s in the future
+[0.942s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_symlink_ollama_ros_msgs.dir/progress.make' has modification time 1766048313 s in the future
+[1.091s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.155s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_generator_c.dir/flags.make' has modification time 1766048312 s in the future
+[1.156s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.187s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.221s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__cpp.dir/progress.make' has modification time 1766048312 s in the future
+[1.222s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.260s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.286s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_symlink_ollama_ros_msgs.dir/progress.make' has modification time 1766048312 s in the future
+[1.350s] [  9%] Built target ollama_ros_msgs__rosidl_generator_c
+[1.416s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_c.dir/flags.make' has modification time 1766048312 s in the future
+[1.450s] [ 12%] Built target ollama_ros_msgs__cpp
+[1.506s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_introspection_c.dir/flags.make' has modification time 1766048312 s in the future
+[1.521s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.639s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.683s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_c.dir/flags.make' has modification time 1766048312 s in the future
+[1.690s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.701s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_fastrtps_cpp.dir/flags.make' has modification time 1766048312 s in the future
+[1.814s] [ 12%] Built target ament_cmake_python_symlink_ollama_ros_msgs
+[1.891s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.935s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_cpp.dir/flags.make' has modification time 1766048312 s in the future
+[1.940s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_introspection_c.dir/flags.make' has modification time 1766048312 s in the future
+[1.955s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.995s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.033s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_fastrtps_cpp.dir/flags.make' has modification time 1766048311 s in the future
+[2.079s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.143s] [ 22%] Built target ollama_ros_msgs__rosidl_typesupport_c
+[2.234s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_introspection_cpp.dir/flags.make' has modification time 1766048311 s in the future
+[2.248s] [ 32%] Built target ollama_ros_msgs__rosidl_typesupport_introspection_c
+[2.310s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_build_ollama_ros_msgs_egg.dir/progress.make' has modification time 1766048311 s in the future
+[2.368s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.414s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_cpp.dir/flags.make' has modification time 1766048311 s in the future
+[2.415s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.483s] [ 41%] Built target ollama_ros_msgs__rosidl_typesupport_fastrtps_cpp
+[2.542s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.563s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_fastrtps_c.dir/flags.make' has modification time 1766048311 s in the future
+[2.603s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_introspection_cpp.dir/flags.make' has modification time 1766048311 s in the future
+[2.622s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.651s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.693s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_build_ollama_ros_msgs_egg.dir/progress.make' has modification time 1766048311 s in the future
+[2.745s] [ 51%] Built target ollama_ros_msgs__rosidl_typesupport_cpp
+[2.911s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.950s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_fastrtps_c.dir/flags.make' has modification time 1766048311 s in the future
+[2.955s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.963s] [ 61%] Built target ollama_ros_msgs__rosidl_typesupport_introspection_cpp
+[3.314s] [ 70%] Built target ollama_ros_msgs__rosidl_typesupport_fastrtps_c
+[3.386s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs.dir/progress.make' has modification time 1766048310 s in the future
+[3.709s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[3.749s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs.dir/progress.make' has modification time 1766048310 s in the future
+[3.749s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[3.924s] [ 70%] Built target ollama_ros_msgs
+[4.552s] running egg_info
+[4.558s] writing ollama_ros_msgs.egg-info/PKG-INFO
+[4.565s] writing dependency_links to ollama_ros_msgs.egg-info/dependency_links.txt
+[4.565s] writing top-level names to ollama_ros_msgs.egg-info/top_level.txt
+[4.574s] reading manifest file 'ollama_ros_msgs.egg-info/SOURCES.txt'
+[4.574s] writing manifest file 'ollama_ros_msgs.egg-info/SOURCES.txt'
+[4.654s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.812s] [ 70%] Built target ament_cmake_python_build_ollama_ros_msgs_egg
+[4.852s] gmake[2]: Warning: File 'ollama_ros_msgs__py/CMakeFiles/ollama_ros_msgs__py.dir/progress.make' has modification time 1766048309 s in the future
+[4.956s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.977s] gmake[2]: Warning: File 'ollama_ros_msgs__py/CMakeFiles/ollama_ros_msgs__py.dir/progress.make' has modification time 1766048309 s in the future
+[4.977s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.085s] [ 74%] Built target ollama_ros_msgs__py
+[5.106s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_generator_py.dir/flags.make' has modification time 1766048308 s in the future
+[5.205s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.226s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_generator_py.dir/flags.make' has modification time 1766048308 s in the future
+[5.227s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.370s] [ 80%] Built target ollama_ros_msgs__rosidl_generator_py
+[5.378s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/flags.make' has modification time 1766048308 s in the future
+[5.485s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.507s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/flags.make' has modification time 1766048308 s in the future
+[5.507s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.617s] [ 87%] Built target ollama_ros_msgs__rosidl_typesupport_fastrtps_c__pyext
+[5.644s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_c__pyext.dir/flags.make' has modification time 1766048308 s in the future
+[5.779s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.796s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_c__pyext.dir/flags.make' has modification time 1766048308 s in the future
+[5.798s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.899s] [ 93%] Built target ollama_ros_msgs__rosidl_typesupport_c__pyext
+[5.923s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_introspection_c__pyext.dir/flags.make' has modification time 1766048308 s in the future
+[6.034s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[6.067s] gmake[2]: Warning: File 'CMakeFiles/ollama_ros_msgs__rosidl_typesupport_introspection_c__pyext.dir/flags.make' has modification time 1766048307 s in the future
+[6.068s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[6.185s] [100%] Built target ollama_ros_msgs__rosidl_typesupport_introspection_c__pyext
+[6.186s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[6.282s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[6.299s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs -- -j6 -l6
+[6.304s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs
+[6.409s] -- Install configuration: ""
+[6.410s] -- Execute custom install script
+[6.410s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ament_index/resource_index/rosidl_interfaces/ollama_ros_msgs
+[6.411s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/msg/rosidl_generator_c__visibility_control.h
+[6.411s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/chat.h
+[6.411s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__functions.h
+[6.412s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__struct.h
+[6.412s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__type_support.h
+[6.412s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/library_path.sh
+[6.412s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/library_path.dsv
+[6.413s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[6.413s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__rosidl_typesupport_fastrtps_c.h
+[6.414s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[6.414s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__rosidl_typesupport_introspection_c.h
+[6.415s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[6.415s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/chat.hpp
+[6.416s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__builder.hpp
+[6.416s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__struct.hpp
+[6.416s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__traits.hpp
+[6.416s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__type_support.hpp
+[6.424s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[6.425s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__rosidl_typesupport_fastrtps_cpp.hpp
+[6.428s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/include/ollama_ros_msgs/ollama_ros_msgs/srv/detail/chat__rosidl_typesupport_introspection_cpp.hpp
+[6.428s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/pythonpath.sh
+[6.428s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/pythonpath.dsv
+[6.428s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[6.428s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[6.428s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[6.429s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[6.429s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/__init__.py
+[6.430s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/_ollama_ros_msgs_s.ep.rosidl_typesupport_c.c
+[6.430s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/_ollama_ros_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[6.430s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/_ollama_ros_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[6.430s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/libollama_ros_msgs__rosidl_generator_py.so
+[6.431s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/ollama_ros_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[6.431s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/ollama_ros_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[6.431s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/ollama_ros_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[6.431s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/srv/__init__.py
+[6.431s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/srv/_chat.py
+[6.431s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/srv/_chat_s.c
+[6.431s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/ollama_ros_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[6.432s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/ollama_ros_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[6.432s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/ollama_ros_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[6.432s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/srv/Chat.idl
+[6.432s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/srv/Chat.srv
+[6.432s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/srv/Chat_Request.msg
+[6.433s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/srv/Chat_Response.msg
+[6.433s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ament_index/resource_index/package_run_dependencies/ollama_ros_msgs
+[6.433s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ament_index/resource_index/parent_prefix_path/ollama_ros_msgs
+[6.434s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/ament_prefix_path.sh
+[6.434s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/ament_prefix_path.dsv
+[6.434s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/path.sh
+[6.436s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/environment/path.dsv
+[6.436s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/local_setup.bash
+[6.436s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/local_setup.sh
+[6.436s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/local_setup.zsh
+[6.437s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/local_setup.dsv
+[6.438s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/package.dsv
+[6.581s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ament_index/resource_index/packages/ollama_ros_msgs
+[6.581s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/rosidl_cmake-extras.cmake
+[6.581s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.581s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[6.581s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[6.582s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[6.582s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.582s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[6.582s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgsConfig.cmake
+[6.582s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgsConfig-version.cmake
+[6.583s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/package.xml
+[6.584s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_generator_c.so
+[6.584s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_typesupport_fastrtps_c.so
+[6.585s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_typesupport_introspection_c.so
+[6.591s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_typesupport_c.so
+[6.593s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_typesupport_fastrtps_cpp.so
+[6.593s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_typesupport_introspection_cpp.so
+[6.594s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_typesupport_cpp.so
+[6.839s] Listing '/home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs'...
+[6.839s] Listing '/home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/local/lib/python3.10/dist-packages/ollama_ros_msgs/srv'...
+[6.860s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/lib/libollama_ros_msgs__rosidl_generator_py.so
+[6.862s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_generator_cExport.cmake
+[6.862s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_generator_cExport-noconfig.cmake
+[6.863s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[6.863s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[6.864s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_introspection_cExport.cmake
+[6.865s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[6.865s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_cExport.cmake
+[6.866s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[6.867s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_generator_cppExport.cmake
+[6.867s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[6.868s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[6.869s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[6.870s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[6.871s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_cppExport.cmake
+[6.871s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/ollama_ros_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[6.872s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_generator_pyExport.cmake
+[6.873s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/ollama_ros_msgs/share/ollama_ros_msgs/cmake/export_ollama_ros_msgs__rosidl_generator_pyExport-noconfig.cmake
+[6.885s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs

@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs/rosidl_generator_py/ollama_ros_msgs/_ollama_ros_msgs_s.ep.rosidl_typesupport_c.c

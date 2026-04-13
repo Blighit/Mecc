@@ -1,0 +1,96 @@
+[0.323s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui -- -j6 -l6
+[0.889s] [ 54%] Built target wheeltec_mic_aiui
+[1.061s] [ 62%] Built target chat_service
+[1.245s] [ 70%] Built target motion_control
+[1.428s] [ 83%] Built target wheeltec_mic
+[1.604s] [ 91%] Built target command_recognition
+[1.763s] [100%] Built target node_feedback
+[3.305s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui -- -j6 -l6
+[3.320s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui
+[3.359s] -- Install configuration: ""
+[3.359s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch
+[3.359s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch/mic_start.launch.py
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch/include
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch/include/voi_navigation.launch.py
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch/include/lasertracker.launch.py
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch/include/laserfollower.launch.py
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch/aiui_chat.launch.py
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/launch/base.launch.py
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI
+[3.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/esr_10801
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/esr_10801/esr.cfg
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/esr_10801/esr.log
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/esr_10801/grammar
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/vtn
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/vtn/vtn.ini
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/vtn/res.bin
+[3.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/esr
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/esr/contact.jet
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/esr/esr.jet
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaofeng.jet
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaoqian.jet
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/yifeng.jet
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaoqiang.jet
+[3.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/chongchong.jet
+[3.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaomei.jet
+[3.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaomeng.jet
+[3.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaoxue.jet
+[3.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaokun.jet
+[3.364s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaodong.jet
+[3.364s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/catherine.jet
+[3.364s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaoshi.jet
+[3.364s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaoyuan.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/john.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaolin.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaofei.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/common_CnCn.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaofang.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/qianqian.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaoyan.jet
+[3.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaobao.jet
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaorong.jet
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaowang.jet
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/nannan.jet
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/assets/xtts/xiaoying.jet
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/msc.cfg
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/40be1a8bba4e1264909677def48f42ee
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/40be1a8bba4e1264909677def48f42ee/local.6.6.0001.0047
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/40be1a8bba4e1264909677def48f42ee/local.6.6.0001.0047/local.cache
+[3.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/7b8b82d171b126a5dcdd8e70adb0e4d3
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/7b8b82d171b126a5dcdd8e70adb0e4d3/ns.6.6.0001.0047
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/7b8b82d171b126a5dcdd8e70adb0e4d3/ns.6.6.0001.0047/ns.cache
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/7b8b82d171b126a5dcdd8e70adb0e4d3/local.6.6.0001.0047
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/7b8b82d171b126a5dcdd8e70adb0e4d3/local.6.6.0001.0047/local.cache
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/msc/aiui.log
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/audio
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/audio/test.pcm
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/cfg
+[3.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/AIUI/cfg/aiui.cfg
+[3.368s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/config
+[3.368s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/config/param.yaml
+[3.368s] -- Execute custom install script
+[3.368s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/lib/wheeltec_mic_aiui/wheeltec_mic_aiui
+[3.369s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/lib/wheeltec_mic_aiui/node_feedback
+[3.369s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/lib/wheeltec_mic_aiui/command_recognition
+[3.369s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/lib/wheeltec_mic_aiui/wheeltec_mic
+[3.375s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/lib/wheeltec_mic_aiui/motion_control
+[3.375s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/lib/wheeltec_mic_aiui/chat_service
+[3.375s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/ament_index/resource_index/package_run_dependencies/wheeltec_mic_aiui
+[3.381s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/ament_index/resource_index/parent_prefix_path/wheeltec_mic_aiui
+[3.381s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/environment/ament_prefix_path.sh
+[3.382s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/environment/ament_prefix_path.dsv
+[3.382s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/environment/path.sh
+[3.383s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/environment/path.dsv
+[3.383s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/local_setup.bash
+[3.383s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/local_setup.sh
+[3.384s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/local_setup.zsh
+[3.384s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/local_setup.dsv
+[3.384s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/package.dsv
+[3.435s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/ament_index/resource_index/packages/wheeltec_mic_aiui
+[3.436s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/cmake/wheeltec_mic_aiuiConfig.cmake
+[3.436s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/cmake/wheeltec_mic_aiuiConfig-version.cmake
+[3.436s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_mic_aiui/share/wheeltec_mic_aiui/package.xml
+[3.642s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_mic_aiui

@@ -1,0 +1,23 @@
+[100%] Built target save_path
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/lib/wheeltec_path_follow/save_path
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/launch/follow_path.launch.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/launch/save_path.launch.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/path/wheeltec_path
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/lib/wheeltec_path_follow/follow_path.py
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/ament_index/resource_index/package_run_dependencies/wheeltec_path_follow
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/ament_index/resource_index/parent_prefix_path/wheeltec_path_follow
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/environment/path.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/environment/path.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/local_setup.bash
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/local_setup.sh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/local_setup.zsh
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/local_setup.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/package.dsv
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/ament_index/resource_index/packages/wheeltec_path_follow
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/cmake/wheeltec_path_followConfig.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/cmake/wheeltec_path_followConfig-version.cmake
+-- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_path_follow/share/wheeltec_path_follow/package.xml

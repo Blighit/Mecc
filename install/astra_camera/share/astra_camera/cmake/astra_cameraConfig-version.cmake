@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/astra_camera/ament_cmake_core/astra_cameraConfig-version.cmake

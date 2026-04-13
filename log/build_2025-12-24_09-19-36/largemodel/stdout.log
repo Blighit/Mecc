@@ -1,0 +1,33 @@
+running develop
+running egg_info
+creating largemodel.egg-info
+writing largemodel.egg-info/PKG-INFO
+writing dependency_links to largemodel.egg-info/dependency_links.txt
+writing entry points to largemodel.egg-info/entry_points.txt
+writing requirements to largemodel.egg-info/requires.txt
+writing top-level names to largemodel.egg-info/top_level.txt
+writing manifest file 'largemodel.egg-info/SOURCES.txt'
+reading manifest file 'largemodel.egg-info/SOURCES.txt'
+writing manifest file 'largemodel.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/wheeltec/wheeltec_ros2/install/largemodel/lib/python3.10/site-packages/largemodel.egg-link (link to .)
+Installing action_service script to /home/wheeltec/wheeltec_ros2/install/largemodel/lib/largemodel
+Installing model_service script to /home/wheeltec/wheeltec_ros2/install/largemodel/lib/largemodel
+
+Installed /home/wheeltec/wheeltec_ros2/build/largemodel
+running symlink_data
+creating /home/wheeltec/wheeltec_ros2/install/largemodel/share/ament_index
+creating /home/wheeltec/wheeltec_ros2/install/largemodel/share/ament_index/resource_index
+creating /home/wheeltec/wheeltec_ros2/install/largemodel/share/ament_index/resource_index/packages
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/resource/largemodel -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/ament_index/resource_index/packages
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/package.xml -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel
+creating /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/launch
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/launch/largemodel_control.launch.py -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/launch
+creating /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/config
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/config/model_config.yaml -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/config
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/config/map_mapping copy.yaml -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/config
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/config/param.yaml -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/config
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/config/map_mapping.yaml -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/config
+creating /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/resources_file
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/resources_file/image.png -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/resources_file
+symbolically linking /home/wheeltec/wheeltec_ros2/build/largemodel/resources_file/qwen3-vl-2d.py -> /home/wheeltec/wheeltec_ros2/install/largemodel/share/largemodel/resources_file

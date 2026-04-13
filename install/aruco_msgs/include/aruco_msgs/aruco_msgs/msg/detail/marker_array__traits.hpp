@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/aruco_msgs/rosidl_generator_cpp/aruco_msgs/msg/detail/marker_array__traits.hpp

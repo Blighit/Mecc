@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/wheeltec_joy/ament_cmake_environment_hooks/local_setup.sh

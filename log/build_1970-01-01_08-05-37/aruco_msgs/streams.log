@@ -1,0 +1,205 @@
+[0.364s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/aruco_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/aruco_msgs -- -j6 -l6
+[0.770s] gmake: Warning: File 'Makefile' has modification time 1766048209 s in the future
+[0.941s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1766048209 s in the future
+[0.972s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_generator_c.dir/flags.make' has modification time 1766048209 s in the future
+[1.011s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_symlink_aruco_msgs.dir/progress.make' has modification time 1766048209 s in the future
+[1.014s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__cpp.dir/progress.make' has modification time 1766048209 s in the future
+[1.118s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.152s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_generator_c.dir/flags.make' has modification time 1766048208 s in the future
+[1.152s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.218s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.242s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__cpp.dir/progress.make' has modification time 1766048208 s in the future
+[1.242s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.287s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.297s] [ 10%] Built target aruco_msgs__rosidl_generator_c
+[1.327s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_symlink_aruco_msgs.dir/progress.make' has modification time 1766048208 s in the future
+[1.332s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_fastrtps_c.dir/flags.make' has modification time 1766048208 s in the future
+[1.335s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_introspection_c.dir/flags.make' has modification time 1766048208 s in the future
+[1.383s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_c.dir/flags.make' has modification time 1766048208 s in the future
+[1.430s] [ 12%] Built target aruco_msgs__cpp
+[1.477s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.498s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_introspection_c.dir/flags.make' has modification time 1766048208 s in the future
+[1.500s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.510s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_introspection_cpp.dir/flags.make' has modification time 1766048208 s in the future
+[1.513s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_fastrtps_cpp.dir/flags.make' has modification time 1766048208 s in the future
+[1.551s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.560s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.605s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_fastrtps_c.dir/flags.make' has modification time 1766048208 s in the future
+[1.607s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.629s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.681s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_c.dir/flags.make' has modification time 1766048208 s in the future
+[1.681s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.715s] [ 23%] Built target aruco_msgs__rosidl_typesupport_introspection_c
+[1.746s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.759s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_cpp.dir/flags.make' has modification time 1766048208 s in the future
+[1.795s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_introspection_cpp.dir/flags.make' has modification time 1766048208 s in the future
+[1.818s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.853s] [ 23%] Built target ament_cmake_python_symlink_aruco_msgs
+[1.876s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.917s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_build_aruco_msgs_egg.dir/progress.make' has modification time 1766048208 s in the future
+[1.920s] [ 33%] Built target aruco_msgs__rosidl_typesupport_fastrtps_c
+[1.936s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_fastrtps_cpp.dir/flags.make' has modification time 1766048208 s in the future
+[1.937s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.960s] [ 43%] Built target aruco_msgs__rosidl_typesupport_c
+[2.008s] [ 53%] Built target aruco_msgs__rosidl_typesupport_introspection_cpp
+[2.111s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.157s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_cpp.dir/flags.make' has modification time 1766048207 s in the future
+[2.160s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.178s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.208s] [ 64%] Built target aruco_msgs__rosidl_typesupport_fastrtps_cpp
+[2.220s] gmake[2]: Warning: File 'CMakeFiles/ament_cmake_python_build_aruco_msgs_egg.dir/progress.make' has modification time 1766048207 s in the future
+[2.280s] [ 74%] Built target aruco_msgs__rosidl_typesupport_cpp
+[2.328s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs.dir/progress.make' has modification time 1766048207 s in the future
+[2.537s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.577s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs.dir/progress.make' has modification time 1766048207 s in the future
+[2.578s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.802s] [ 74%] Built target aruco_msgs
+[2.900s] gmake[2]: Warning: File 'aruco_msgs__py/CMakeFiles/aruco_msgs__py.dir/progress.make' has modification time 1766048207 s in the future
+[3.240s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[3.328s] gmake[2]: Warning: File 'aruco_msgs__py/CMakeFiles/aruco_msgs__py.dir/progress.make' has modification time 1766048206 s in the future
+[3.328s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[3.683s] [ 76%] Built target aruco_msgs__py
+[3.758s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_generator_py.dir/flags.make' has modification time 1766048206 s in the future
+[4.090s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.149s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_generator_py.dir/flags.make' has modification time 1766048205 s in the future
+[4.150s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.436s] [ 84%] Built target aruco_msgs__rosidl_generator_py
+[4.541s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/flags.make' has modification time 1766048205 s in the future
+[4.548s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_introspection_c__pyext.dir/flags.make' has modification time 1766048205 s in the future
+[4.548s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_c__pyext.dir/flags.make' has modification time 1766048205 s in the future
+[4.698s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.756s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_c__pyext.dir/flags.make' has modification time 1766048205 s in the future
+[4.767s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.849s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.856s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.886s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_introspection_c__pyext.dir/flags.make' has modification time 1766048205 s in the future
+[4.893s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[4.922s] gmake[2]: Warning: File 'CMakeFiles/aruco_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/flags.make' has modification time 1766048205 s in the future
+[4.923s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.011s] [ 89%] Built target aruco_msgs__rosidl_typesupport_c__pyext
+[5.086s] [ 94%] Built target aruco_msgs__rosidl_typesupport_fastrtps_c__pyext
+[5.166s] [100%] Built target aruco_msgs__rosidl_typesupport_introspection_c__pyext
+[5.205s] running egg_info
+[5.207s] writing aruco_msgs.egg-info/PKG-INFO
+[5.209s] writing dependency_links to aruco_msgs.egg-info/dependency_links.txt
+[5.209s] writing top-level names to aruco_msgs.egg-info/top_level.txt
+[5.225s] reading manifest file 'aruco_msgs.egg-info/SOURCES.txt'
+[5.227s] writing manifest file 'aruco_msgs.egg-info/SOURCES.txt'
+[5.348s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.618s] [100%] Built target ament_cmake_python_build_aruco_msgs_egg
+[5.618s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.811s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[5.815s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/aruco_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/aruco_msgs -- -j6 -l6
+[5.827s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/aruco_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/aruco_msgs
+[6.012s] -- Install configuration: ""
+[6.013s] -- Execute custom install script
+[6.013s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/ament_index/resource_index/rosidl_interfaces/aruco_msgs
+[6.016s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__functions.h
+[6.016s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__struct.h
+[6.016s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__type_support.h
+[6.016s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__functions.h
+[6.016s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__struct.h
+[6.017s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__type_support.h
+[6.017s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/marker.h
+[6.017s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/marker_array.h
+[6.017s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/rosidl_generator_c__visibility_control.h
+[6.017s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/library_path.sh
+[6.017s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/library_path.dsv
+[6.018s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_c.h
+[6.018s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_c.h
+[6.018s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[6.020s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__builder.hpp
+[6.020s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__struct.hpp
+[6.020s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__traits.hpp
+[6.020s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__type_support.hpp
+[6.021s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__builder.hpp
+[6.021s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__struct.hpp
+[6.021s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__traits.hpp
+[6.021s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__type_support.hpp
+[6.022s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/marker.hpp
+[6.022s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/marker_array.hpp
+[6.022s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[6.023s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_cpp.hpp
+[6.023s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_cpp.hpp
+[6.023s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[6.024s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__rosidl_typesupport_introspection_c.h
+[6.024s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_c.h
+[6.024s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[6.025s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker__rosidl_typesupport_introspection_cpp.hpp
+[6.025s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/include/aruco_msgs/aruco_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_cpp.hpp
+[6.025s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/pythonpath.sh
+[6.025s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/pythonpath.dsv
+[6.026s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs-5.0.5-py3.10.egg-info/PKG-INFO
+[6.026s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs-5.0.5-py3.10.egg-info/SOURCES.txt
+[6.026s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs-5.0.5-py3.10.egg-info/dependency_links.txt
+[6.027s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs-5.0.5-py3.10.egg-info/top_level.txt
+[6.028s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/__init__.py
+[6.028s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/_aruco_msgs_s.ep.rosidl_typesupport_c.c
+[6.028s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/_aruco_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[6.028s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/_aruco_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[6.029s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/aruco_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[6.029s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/aruco_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[6.029s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/aruco_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[6.030s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/libaruco_msgs__rosidl_generator_py.so
+[6.030s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/msg/__init__.py
+[6.030s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/msg/_marker.py
+[6.030s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/msg/_marker_array.py
+[6.030s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/msg/_marker_array_s.c
+[6.030s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/msg/_marker_s.c
+[6.043s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/aruco_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[6.055s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/aruco_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[6.056s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/aruco_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[6.056s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/msg/Marker.idl
+[6.056s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/msg/MarkerArray.idl
+[6.057s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/msg/Marker.msg
+[6.061s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/msg/MarkerArray.msg
+[6.061s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/ament_index/resource_index/package_run_dependencies/aruco_msgs
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/ament_index/resource_index/parent_prefix_path/aruco_msgs
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/ament_prefix_path.sh
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/ament_prefix_path.dsv
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/path.sh
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/environment/path.dsv
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/local_setup.bash
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/local_setup.sh
+[6.062s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/local_setup.zsh
+[6.063s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/local_setup.dsv
+[6.063s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/package.dsv
+[6.273s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/ament_index/resource_index/packages/aruco_msgs
+[6.274s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/rosidl_cmake-extras.cmake
+[6.274s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.274s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.274s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[6.275s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[6.275s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[6.276s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[6.276s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig.cmake
+[6.276s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake
+[6.276s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/package.xml
+[6.276s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_generator_c.so
+[6.277s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_typesupport_fastrtps_c.so
+[6.277s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_typesupport_fastrtps_cpp.so
+[6.277s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_typesupport_introspection_c.so
+[6.277s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_typesupport_c.so
+[6.277s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_typesupport_introspection_cpp.so
+[6.277s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_typesupport_cpp.so
+[6.972s] Listing '/home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs'...
+[6.972s] Listing '/home/wheeltec/wheeltec_ros2/install/aruco_msgs/local/lib/python3.10/dist-packages/aruco_msgs/msg'...
+[6.986s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/lib/libaruco_msgs__rosidl_generator_py.so
+[6.988s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_generator_cExport.cmake
+[6.988s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_generator_cExport-noconfig.cmake
+[6.989s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[6.989s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[6.989s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_generator_cppExport.cmake
+[6.989s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[6.989s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[6.990s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_introspection_cExport.cmake
+[6.990s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[6.990s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_cExport.cmake
+[6.991s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[6.991s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[6.991s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[6.992s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_cppExport.cmake
+[6.992s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[6.992s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_generator_pyExport.cmake
+[6.992s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/install/aruco_msgs/share/aruco_msgs/cmake/export_aruco_msgs__rosidl_generator_pyExport-noconfig.cmake
+[8.306s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/aruco_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/aruco_msgs

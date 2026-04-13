@@ -1,0 +1,194 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-5cf1aa39b9d71c4db2d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						9
+					]
+				},
+				{
+					"build" : "test",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-test-Release-451c0598f41488bb20b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "gtest",
+					"jsonFile" : "directory-gtest-Release-a2408fe1a73b92c5e636.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/opt/ros/humble/src/gtest_vendor",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "dwb_critics",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						6,
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gtest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "alignment_util_tests::@36f028580bb02cc8272a",
+					"jsonFile" : "target-alignment_util_tests-Release-71fe43ca8a9942c3d2e4.json",
+					"name" : "alignment_util_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "base_obstacle_tests::@36f028580bb02cc8272a",
+					"jsonFile" : "target-base_obstacle_tests-Release-36a5b7ca1d11ee40b285.json",
+					"name" : "base_obstacle_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dwb_critics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dwb_critics-Release-2665e815a521ee392ea1.json",
+					"name" : "dwb_critics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dwb_critics_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dwb_critics_uninstall-Release-8e20f536f50758321d8d.json",
+					"name" : "dwb_critics_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest-Release-234258208eef7be92097.json",
+					"name" : "gtest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest_main::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest_main-Release-67aa96b32c9e4e364f97.json",
+					"name" : "gtest_main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "obstacle_footprint_tests::@36f028580bb02cc8272a",
+					"jsonFile" : "target-obstacle_footprint_tests-Release-4033b9e59588bb24f9e8.json",
+					"name" : "obstacle_footprint_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "prefer_forward_tests::@36f028580bb02cc8272a",
+					"jsonFile" : "target-prefer_forward_tests-Release-072b0e877ec751748d50.json",
+					"name" : "prefer_forward_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "twirling_tests::@36f028580bb02cc8272a",
+					"jsonFile" : "target-twirling_tests-Release-239b811083ff900ae620.json",
+					"name" : "twirling_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-5344cfe333e412c35bf3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wheeltec/wheeltec_ros2/build/dwb_critics",
+		"source" : "/home/wheeltec/wheeltec_ros2/src/navigation2-humble/nav2_dwb_controller/dwb_critics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

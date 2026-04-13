@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/bodyreader_msg/rosidl_typesupport_fastrtps_c/bodyreader_msg/msg/detail/body__rosidl_typesupport_fastrtps_c.h

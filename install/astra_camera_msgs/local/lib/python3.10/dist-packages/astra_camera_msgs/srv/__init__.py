@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/astra_camera_msgs/rosidl_generator_py/astra_camera_msgs/srv/__init__.py

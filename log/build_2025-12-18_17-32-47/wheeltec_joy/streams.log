@@ -1,0 +1,26 @@
+[0.112s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_joy -- -j6 -l6
+[0.249s] [35m[1mConsolidate compiler generated dependencies of target wheeltec_joy[0m
+[0.288s] [100%] Built target wheeltec_joy
+[0.318s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_joy -- -j6 -l6
+[0.324s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_joy
+[0.342s] -- Install configuration: ""
+[0.343s] -- Execute custom install script
+[0.345s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/lib/wheeltec_joy/wheeltec_joy
+[0.346s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/launch/only_joy.launch.py
+[0.347s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/launch/wheeltec_joy.launch.py
+[0.348s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/ament_index/resource_index/package_run_dependencies/wheeltec_joy
+[0.348s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/ament_index/resource_index/parent_prefix_path/wheeltec_joy
+[0.349s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/environment/ament_prefix_path.sh
+[0.350s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/environment/ament_prefix_path.dsv
+[0.351s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/environment/path.sh
+[0.351s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/environment/path.dsv
+[0.352s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/local_setup.bash
+[0.353s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/local_setup.sh
+[0.353s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/local_setup.zsh
+[0.354s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/local_setup.dsv
+[0.354s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/package.dsv
+[0.381s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/ament_index/resource_index/packages/wheeltec_joy
+[0.381s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/cmake/wheeltec_joyConfig.cmake
+[0.382s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/cmake/wheeltec_joyConfig-version.cmake
+[0.382s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_joy/share/wheeltec_joy/package.xml
+[0.474s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_joy

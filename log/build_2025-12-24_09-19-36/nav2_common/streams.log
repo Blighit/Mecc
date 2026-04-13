@@ -1,0 +1,44 @@
+[0.383s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/nav2_common -- -j6 -l6
+[1.648s] Built target ament_cmake_python_symlink_nav2_common
+[3.405s] running egg_info
+[3.406s] writing nav2_common.egg-info/PKG-INFO
+[3.407s] writing dependency_links to nav2_common.egg-info/dependency_links.txt
+[3.407s] writing top-level names to nav2_common.egg-info/top_level.txt
+[3.429s] reading manifest file 'nav2_common.egg-info/SOURCES.txt'
+[3.439s] writing manifest file 'nav2_common.egg-info/SOURCES.txt'
+[3.715s] Built target ament_cmake_python_build_nav2_common_egg
+[3.866s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/nav2_common -- -j6 -l6
+[3.892s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/nav2_common
+[5.079s] -- Install configuration: ""
+[5.079s] -- Execute custom install script
+[5.079s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/environment/pythonpath.sh
+[5.079s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/environment/pythonpath.dsv
+[5.079s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common-1.1.6-py3.10.egg-info/PKG-INFO
+[5.079s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common-1.1.6-py3.10.egg-info/SOURCES.txt
+[5.079s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common-1.1.6-py3.10.egg-info/dependency_links.txt
+[5.079s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common-1.1.6-py3.10.egg-info/top_level.txt
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common/__init__.py
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common/launch/__init__.py
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common/launch/has_node_params.py
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common/launch/replace_string.py
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common/launch/rewritten_yaml.py
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/ament_index/resource_index/package_run_dependencies/nav2_common
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/ament_index/resource_index/parent_prefix_path/nav2_common
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/environment/ament_prefix_path.sh
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/environment/ament_prefix_path.dsv
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/environment/path.sh
+[5.080s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/environment/path.dsv
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/local_setup.bash
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/local_setup.sh
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/local_setup.zsh
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/local_setup.dsv
+[5.081s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/package.dsv
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/ament_index/resource_index/packages/nav2_common
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/cmake/nav2_common-extras.cmake
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig.cmake
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig-version.cmake
+[5.081s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/package.xml
+[5.082s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/nav2_common/share/nav2_common/cmake/nav2_package.cmake
+[5.082s] Listing '/home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common'...
+[5.082s] Listing '/home/wheeltec/wheeltec_ros2/install/nav2_common/local/lib/python3.10/dist-packages/nav2_common/launch'...
+[5.090s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/nav2_common

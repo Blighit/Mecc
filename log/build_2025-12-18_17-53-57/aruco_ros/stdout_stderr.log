@@ -1,0 +1,45 @@
+[35m[1mConsolidate compiler generated dependencies of target aruco_ros_utils[0m
+[ 18%] Built target aruco_ros_utils
+[35m[1mConsolidate compiler generated dependencies of target marker_publisher[0m
+[ 45%] Built target marker_publisher
+[35m[1mConsolidate compiler generated dependencies of target double[0m
+[ 72%] Built target double
+[35m[1mConsolidate compiler generated dependencies of target single[0m
+[100%] Built target single
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/lib/libaruco_ros_utils.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/lib/aruco_ros/marker_publisher
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/lib/aruco_ros/single
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/lib/aruco_ros/double
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/marker26_5cm.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/marker26_5cm_margin_1cm.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/marker26_5cm_margin_2cm.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/marker582_5cm.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/marker582_5cm_margin_2cm.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/marker_in_hand.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/marker_in_object.jpg
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/new_coordinates.png
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/reem_gazebo_floating_marker.png
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/etc/reem_gazebo_floating_marker_world.png
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/launch/aruco_recognize.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/launch/double.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/launch/marker_publisher.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/launch/single.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/ament_index/resource_index/package_run_dependencies/aruco_ros
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/ament_index/resource_index/parent_prefix_path/aruco_ros
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/environment/ament_prefix_path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/environment/ament_prefix_path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/environment/path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/environment/path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/local_setup.bash
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/local_setup.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/local_setup.zsh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/local_setup.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/package.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/ament_index/resource_index/packages/aruco_ros
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig-version.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco_ros/share/aruco_ros/package.xml
+-- Installing: /home/wheeltec/wheeltec_ros2/install/aruco_ros/include
+-- Installing: /home/wheeltec/wheeltec_ros2/install/aruco_ros/include/aruco_ros

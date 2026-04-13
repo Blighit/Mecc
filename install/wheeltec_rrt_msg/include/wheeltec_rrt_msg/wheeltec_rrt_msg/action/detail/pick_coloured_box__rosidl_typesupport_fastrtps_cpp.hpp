@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/wheeltec_rrt_msg/rosidl_typesupport_fastrtps_cpp/wheeltec_rrt_msg/action/detail/pick_coloured_box__rosidl_typesupport_fastrtps_cpp.hpp

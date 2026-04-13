@@ -1,0 +1,70 @@
+[0.104s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt -- -j6 -l6
+[0.761s] [  6%] Built target find_coloured_box
+[0.795s] [ 12%] Built target approach_coloured_box
+[0.799s] [ 18%] Built target pick_coloured_box
+[1.042s] [ 25%] Built target pick_robot_action_server
+[1.061s] [ 31%] Built target utils
+[1.298s] [ 37%] Built target wait_for_fin
+[1.402s] [ 43%] Built target mtrand
+[1.419s] [ 50%] Built target mean_shift
+[1.493s] [ 56%] Built target robot
+[1.651s] [ 62%] Built target robot_pose_publisher
+[1.692s] [ 68%] Built target find_robot_action_server
+[1.745s] [ 75%] Built target global_rrt
+[2.054s] [ 81%] Built target filter
+[2.059s] [ 87%] Built target assigner
+[2.202s] [ 93%] Built target local_rrt
+[2.381s] [100%] Built target robot_picker
+[2.540s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt -- -j6 -l6
+[2.548s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt
+[2.661s] -- Install configuration: ""
+[2.662s] -- Execute custom install script
+[2.663s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libfind_coloured_box.so
+[2.663s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libapproach_coloured_box.so
+[2.664s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libpick_coloured_box.so
+[2.667s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/robot_picker
+[2.667s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/find_robot_action_server
+[2.667s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/pick_robot_action_server
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/wait_for_fin
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/local_rrt
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/global_rrt
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/filter
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/assigner
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/robot_pose_publisher
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_bringup_launch.py
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_localization_launch.py
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_navigation_launch.py
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_slam_launch.py
+[2.668s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/action_servers.launch.py
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/rrt_assigner.launch.py
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/rrt_exploration.launch.py
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/visual_slam_start.py
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/wheeltec_rrt_slam.launch.py
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/ekf.yaml
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/exploration_params.yaml
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/nav2_params.yaml
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/rtabmap.yaml
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//behaviour_trees/navigate_w_replanning_time.xml
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//behaviour_trees/robot_picker_behaviour_tree.xml
+[2.669s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//behaviour_trees/rrt_navigate_w_replanning_time.xml
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libutils.so
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libmtrand.so
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libmean_shift.so
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/librobot.so
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/boundary_publisher.py
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/ament_index/resource_index/package_run_dependencies/wheeltec_robot_rrt
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/ament_index/resource_index/parent_prefix_path/wheeltec_robot_rrt
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/ament_prefix_path.sh
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/ament_prefix_path.dsv
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/path.sh
+[2.670s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/path.dsv
+[2.671s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.bash
+[2.671s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.sh
+[2.671s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.zsh
+[2.671s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.dsv
+[2.671s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/package.dsv
+[2.770s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/ament_index/resource_index/packages/wheeltec_robot_rrt
+[2.770s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/cmake/wheeltec_robot_rrtConfig.cmake
+[2.770s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/cmake/wheeltec_robot_rrtConfig-version.cmake
+[2.770s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/package.xml
+[2.787s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_rrt

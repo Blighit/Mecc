@@ -1,0 +1,17 @@
+[2.364s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/tf2_tools': PYTHONPATH=/home/wheeltec/wheeltec_ros2/build/tf2_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/install/tf2_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wheeltec/wheeltec_ros2/build/tf2_tools/build --no-deps symlink_data
+[3.368s] running develop
+[3.919s] running egg_info
+[3.919s] writing tf2_tools.egg-info/PKG-INFO
+[3.920s] writing dependency_links to tf2_tools.egg-info/dependency_links.txt
+[3.921s] writing entry points to tf2_tools.egg-info/entry_points.txt
+[3.921s] writing requirements to tf2_tools.egg-info/requires.txt
+[3.922s] writing top-level names to tf2_tools.egg-info/top_level.txt
+[3.931s] reading manifest file 'tf2_tools.egg-info/SOURCES.txt'
+[3.933s] writing manifest file 'tf2_tools.egg-info/SOURCES.txt'
+[3.939s] running build_ext
+[3.940s] Creating /home/wheeltec/wheeltec_ros2/install/tf2_tools/lib/python3.10/site-packages/tf2-tools.egg-link (link to .)
+[3.942s] Installing view_frames script to /home/wheeltec/wheeltec_ros2/install/tf2_tools/lib/tf2_tools
+[3.943s] 
+[3.943s] Installed /home/wheeltec/wheeltec_ros2/build/tf2_tools
+[3.943s] running symlink_data
+[4.053s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/tf2_tools' returned '0': PYTHONPATH=/home/wheeltec/wheeltec_ros2/build/tf2_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/install/tf2_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wheeltec/wheeltec_ros2/build/tf2_tools/build --no-deps symlink_data

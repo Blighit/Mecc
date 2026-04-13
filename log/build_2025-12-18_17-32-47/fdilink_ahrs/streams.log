@@ -1,0 +1,29 @@
+[0.111s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs -- -j6 -l6
+[0.265s] [35m[1mConsolidate compiler generated dependencies of target ahrs_driver_node[0m
+[0.275s] [35m[1mConsolidate compiler generated dependencies of target imu_tf_node[0m
+[0.329s] [ 40%] Built target imu_tf_node
+[0.352s] [100%] Built target ahrs_driver_node
+[0.377s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs -- -j6 -l6
+[0.390s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs
+[0.411s] -- Install configuration: ""
+[0.413s] -- Execute custom install script
+[0.414s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/lib/fdilink_ahrs/ahrs_driver_node
+[0.414s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/lib/fdilink_ahrs/imu_tf_node
+[0.416s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/launch/ahrs_driver.launch.py
+[0.416s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/launch/imu_tf.launch.py
+[0.417s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/ament_index/resource_index/package_run_dependencies/fdilink_ahrs
+[0.417s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/ament_index/resource_index/parent_prefix_path/fdilink_ahrs
+[0.418s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/ament_prefix_path.sh
+[0.418s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/ament_prefix_path.dsv
+[0.419s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/path.sh
+[0.419s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/path.dsv
+[0.420s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.bash
+[0.420s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.sh
+[0.420s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.zsh
+[0.421s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.dsv
+[0.421s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/package.dsv
+[0.459s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/ament_index/resource_index/packages/fdilink_ahrs
+[0.459s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/cmake/fdilink_ahrsConfig.cmake
+[0.460s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/cmake/fdilink_ahrsConfig-version.cmake
+[0.460s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/package.xml
+[0.465s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs

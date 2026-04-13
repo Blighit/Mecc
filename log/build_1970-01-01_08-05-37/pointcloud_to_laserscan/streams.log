@@ -1,0 +1,30 @@
+[0.167s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/pointcloud_to_laserscan': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/pointcloud_to_laserscan -- -j6 -l6
+[0.315s] gmake: Warning: File 'Makefile' has modification time 1766048710 s in the future
+[0.593s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1766048710 s in the future
+[0.625s] gmake[2]: Warning: File 'CMakeFiles/laserscan_to_pointcloud.dir/flags.make' has modification time 1766048710 s in the future
+[0.762s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.794s] gmake[2]: Warning: File 'CMakeFiles/laserscan_to_pointcloud.dir/flags.make' has modification time 1766048709 s in the future
+[0.800s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.942s] [ 20%] Built target laserscan_to_pointcloud
+[0.970s] gmake[2]: Warning: File 'CMakeFiles/pointcloud_to_laserscan_node.dir/flags.make' has modification time 1766048709 s in the future
+[1.113s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.142s] gmake[2]: Warning: File 'CMakeFiles/pointcloud_to_laserscan_node.dir/flags.make' has modification time 1766048709 s in the future
+[1.147s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.283s] [ 40%] Built target pointcloud_to_laserscan_node
+[1.309s] gmake[2]: Warning: File 'CMakeFiles/pointcloud_to_laserscan.dir/flags.make' has modification time 1766048709 s in the future
+[1.439s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.463s] gmake[2]: Warning: File 'CMakeFiles/pointcloud_to_laserscan.dir/flags.make' has modification time 1766048709 s in the future
+[1.468s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.573s] [ 60%] Built target pointcloud_to_laserscan
+[1.604s] gmake[2]: Warning: File 'CMakeFiles/laserscan_to_pointcloud_node.dir/flags.make' has modification time 1766048709 s in the future
+[1.741s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.762s] gmake[2]: Warning: File 'CMakeFiles/laserscan_to_pointcloud_node.dir/flags.make' has modification time 1766048708 s in the future
+[1.766s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.877s] [ 80%] Built target laserscan_to_pointcloud_node
+[1.903s] gmake[2]: Warning: File 'CMakeFiles/dummy_pointcloud_publisher.dir/flags.make' has modification time 1766048708 s in the future
+[2.013s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.038s] gmake[2]: Warning: File 'CMakeFiles/dummy_pointcloud_publisher.dir/flags.make' has modification time 1766048708 s in the future
+[2.041s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.138s] [100%] Built target dummy_pointcloud_publisher
+[2.139s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[2.240s] gmake: warning:  Clock skew detected.  Your build may be incomplete.

@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d43daafb7a202b33522e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "aruco_msgs__py",
+					"jsonFile" : "directory-aruco_msgs__py-e1f0802de87ec79f5437.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/wheeltec/wheeltec_ros2/build/aruco_msgs/aruco_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "aruco_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_aruco_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_aruco_msgs_egg-9fb5e3cd3d6555e0b669.json",
+					"name" : "ament_cmake_python_build_aruco_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_aruco_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_aruco_msgs-51653fade0ae728e1e38.json",
+					"name" : "ament_cmake_python_symlink_aruco_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs-c70ca8654f0ef1f040c8.json",
+					"name" : "aruco_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__cpp-1e724aced226feebf9b9.json",
+					"name" : "aruco_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "aruco_msgs__py::@74a518b0e950c3938cf6",
+					"jsonFile" : "target-aruco_msgs__py-c521fa7876a1e7dfe9a9.json",
+					"name" : "aruco_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_generator_c-ef6f902de16957177416.json",
+					"name" : "aruco_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_generator_py-cbf2ba677602c0a529e5.json",
+					"name" : "aruco_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_c-3220feaa0af7cb1400cd.json",
+					"name" : "aruco_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_c__pyext-67bdec123aaafe83f3d4.json",
+					"name" : "aruco_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_cpp-4e4711219c1bf301a81c.json",
+					"name" : "aruco_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_fastrtps_c-2d675368135caf6c96bc.json",
+					"name" : "aruco_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_fastrtps_c__pyext-59d0f877808f19f8043e.json",
+					"name" : "aruco_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_fastrtps_cpp-b5bd51e3aa57e44068bb.json",
+					"name" : "aruco_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_introspection_c-87dcc13d20ea0fe07e79.json",
+					"name" : "aruco_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_introspection_c__pyext-c8cb1f372ee2f0f9c308.json",
+					"name" : "aruco_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs__rosidl_typesupport_introspection_cpp-18f8b6a03bdc84041802.json",
+					"name" : "aruco_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_msgs_uninstall-7665852357ecf422406e.json",
+					"name" : "aruco_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-e3332647e7f4feb0085d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wheeltec/wheeltec_ros2/build/aruco_msgs",
+		"source" : "/home/wheeltec/wheeltec_ros2/src/aruco_ros-humble-devel/aruco_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

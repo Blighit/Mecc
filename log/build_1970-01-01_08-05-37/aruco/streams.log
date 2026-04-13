@@ -1,0 +1,58 @@
+[0.368s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/aruco': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/aruco -- -j6 -l6
+[0.541s] gmake: Warning: File 'Makefile' has modification time 1766048204 s in the future
+[0.939s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1766048203 s in the future
+[1.029s] gmake[2]: Warning: File 'CMakeFiles/aruco.dir/flags.make' has modification time 1766048203 s in the future
+[1.328s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.418s] gmake[2]: Warning: File 'CMakeFiles/aruco.dir/flags.make' has modification time 1766048203 s in the future
+[1.436s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.627s] [100%] Built target aruco
+[1.627s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.839s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[1.984s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/aruco' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/aruco -- -j6 -l6
+[1.986s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/aruco': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/aruco
+[2.265s] -- Install configuration: ""
+[2.268s] -- Execute custom install script
+[2.270s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/lib/libaruco.so
+[2.272s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/aruco.h
+[2.274s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/aruco_cvversioning.h
+[2.287s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/aruco_export.h
+[2.287s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/cameraparameters.h
+[2.287s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/cvdrawingutils.h
+[2.287s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/debug.h
+[2.287s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/dictionary.h
+[2.288s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/dictionary_based.h
+[2.288s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/fractaldetector.h
+[2.288s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/fractallabelers/fractallabeler.h
+[2.288s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/fractallabelers/fractalmarker.h
+[2.288s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/fractallabelers/fractalmarkerset.h
+[2.289s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/fractallabelers/fractalposetracker.h
+[2.289s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/ippe.h
+[2.289s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/levmarq.h
+[2.289s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/marker.h
+[2.289s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/markerdetector.h
+[2.289s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/markerdetector_impl.h
+[2.290s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/markerlabeler.h
+[2.290s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/markermap.h
+[2.290s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/picoflann.h
+[2.290s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/posetracker.h
+[2.290s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/include/aruco/timers.h
+[2.291s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/environment/library_path.sh
+[2.291s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/environment/library_path.dsv
+[2.292s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/ament_index/resource_index/package_run_dependencies/aruco
+[2.292s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/ament_index/resource_index/parent_prefix_path/aruco
+[2.292s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/environment/ament_prefix_path.sh
+[2.292s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/environment/ament_prefix_path.dsv
+[2.293s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/environment/path.sh
+[2.293s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/environment/path.dsv
+[2.293s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/local_setup.bash
+[2.293s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/local_setup.sh
+[2.294s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/local_setup.zsh
+[2.306s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/local_setup.dsv
+[2.306s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/package.dsv
+[2.537s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/ament_index/resource_index/packages/aruco
+[2.537s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.537s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/cmake/ament_cmake_export_libraries-extras.cmake
+[2.537s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/cmake/arucoConfig.cmake
+[2.538s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/cmake/arucoConfig-version.cmake
+[2.538s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/aruco/share/aruco/package.xml
+[2.553s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/aruco' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/aruco

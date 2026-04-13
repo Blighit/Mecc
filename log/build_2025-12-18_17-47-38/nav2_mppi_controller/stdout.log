@@ -1,0 +1,31 @@
+[35m[1mConsolidate compiler generated dependencies of target mppi_controller[0m
+[35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[35m[1mConsolidate compiler generated dependencies of target mppi_critics[0m
+[35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[  4%] Built target gtest_main
+[  8%] Built target gtest
+[ 30%] Built target mppi_critics
+[ 47%] Built target mppi_controller
+[35m[1mConsolidate compiler generated dependencies of target optimizer_smoke_test[0m
+[35m[1mConsolidate compiler generated dependencies of target controller_state_transition_test[0m
+[35m[1mConsolidate compiler generated dependencies of target models_test[0m
+[35m[1mConsolidate compiler generated dependencies of target noise_generator_test[0m
+[35m[1mConsolidate compiler generated dependencies of target parameter_handler_test[0m
+[ 50%] [32mBuilding CXX object test/CMakeFiles/motion_model_tests.dir/motion_model_tests.cpp.o[0m
+[ 52%] [32mBuilding CXX object test/CMakeFiles/noise_generator_test.dir/noise_generator_test.cpp.o[0m
+[ 56%] Built target controller_state_transition_test
+[ 60%] Built target optimizer_smoke_test
+[ 65%] Built target models_test
+[ 69%] Built target parameter_handler_test
+[ 71%] [32mBuilding CXX object test/CMakeFiles/trajectory_visualizer_tests.dir/trajectory_visualizer_tests.cpp.o[0m
+[ 73%] [32mBuilding CXX object test/CMakeFiles/utils_test.dir/utils_test.cpp.o[0m
+[ 76%] [32mBuilding CXX object test/CMakeFiles/path_handler_test.dir/path_handler_test.cpp.o[0m
+[ 78%] [32mBuilding CXX object test/CMakeFiles/critic_manager_test.dir/critic_manager_test.cpp.o[0m
+[ 80%] [32m[1mLinking CXX executable path_handler_test[0m
+[ 80%] Built target path_handler_test
+[ 82%] [32m[1mLinking CXX executable utils_test[0m
+[ 84%] [32m[1mLinking CXX executable critic_manager_test[0m
+[ 84%] Built target utils_test
+[ 84%] Built target critic_manager_test
+[ 86%] [32m[1mLinking CXX executable trajectory_visualizer_tests[0m
+[ 86%] Built target trajectory_visualizer_tests

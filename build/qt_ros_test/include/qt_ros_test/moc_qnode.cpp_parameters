@@ -1,0 +1,6 @@
+-I/home/wheeltec/wheeltec_ros2/src/qt_ros_test/include
+-I/home/wheeltec/wheeltec_ros2/build/qt_ros_test
+-I/home/wheeltec/wheeltec_ros2/src/qt_ros_test/include/qt_ros_test
+-o
+/home/wheeltec/wheeltec_ros2/build/qt_ros_test/include/qt_ros_test/moc_qnode.cpp
+/home/wheeltec/wheeltec_ros2/src/qt_ros_test/include/qt_ros_test/qnode.hpp

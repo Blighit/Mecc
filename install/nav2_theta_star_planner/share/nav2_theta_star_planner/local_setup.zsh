@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/nav2_theta_star_planner/ament_cmake_environment_hooks/local_setup.zsh

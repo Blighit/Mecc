@@ -1,0 +1,39 @@
+[0.157s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs -- -j6 -l6
+[0.288s] gmake: Warning: File 'Makefile' has modification time 1766048659 s in the future
+[0.542s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1766048659 s in the future
+[0.566s] gmake[2]: Warning: File 'CMakeFiles/ahrs_driver_node.dir/flags.make' has modification time 1766048659 s in the future
+[0.677s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.701s] gmake[2]: Warning: File 'CMakeFiles/ahrs_driver_node.dir/flags.make' has modification time 1766048659 s in the future
+[0.705s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.819s] [ 60%] Built target ahrs_driver_node
+[0.859s] gmake[2]: Warning: File 'CMakeFiles/imu_tf_node.dir/flags.make' has modification time 1766048659 s in the future
+[0.983s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.007s] gmake[2]: Warning: File 'CMakeFiles/imu_tf_node.dir/flags.make' has modification time 1766048658 s in the future
+[1.009s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.169s] [100%] Built target imu_tf_node
+[1.171s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.275s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[2.009s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs -- -j6 -l6
+[2.018s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs
+[2.141s] -- Install configuration: ""
+[2.142s] -- Execute custom install script
+[2.144s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/lib/fdilink_ahrs/ahrs_driver_node
+[2.145s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/lib/fdilink_ahrs/imu_tf_node
+[2.146s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/launch/ahrs_driver.launch.py
+[2.146s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/launch/imu_tf.launch.py
+[2.147s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/ament_index/resource_index/package_run_dependencies/fdilink_ahrs
+[2.148s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/ament_index/resource_index/parent_prefix_path/fdilink_ahrs
+[2.149s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/ament_prefix_path.sh
+[2.150s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/ament_prefix_path.dsv
+[2.150s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/path.sh
+[2.151s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/environment/path.dsv
+[2.152s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.bash
+[2.153s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.sh
+[2.153s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.zsh
+[2.154s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/local_setup.dsv
+[2.155s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/package.dsv
+[2.305s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/ament_index/resource_index/packages/fdilink_ahrs
+[2.306s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/cmake/fdilink_ahrsConfig.cmake
+[2.306s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/cmake/fdilink_ahrsConfig-version.cmake
+[2.306s] -- Up-to-date symlink: /home/wheeltec/wheeltec_ros2/install/fdilink_ahrs/share/fdilink_ahrs/package.xml
+[2.437s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/fdilink_ahrs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/autoware_multi_point:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/fdilink_ahrs

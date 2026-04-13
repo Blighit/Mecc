@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing largemodel.egg-info/PKG-INFO
+writing dependency_links to largemodel.egg-info/dependency_links.txt
+writing entry points to largemodel.egg-info/entry_points.txt
+writing requirements to largemodel.egg-info/requires.txt
+writing top-level names to largemodel.egg-info/top_level.txt
+reading manifest file 'largemodel.egg-info/SOURCES.txt'
+writing manifest file 'largemodel.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/wheeltec/wheeltec_ros2/install/largemodel/lib/python3.10/site-packages/largemodel.egg-link (link to .)
+Installing action_service script to /home/wheeltec/wheeltec_ros2/install/largemodel/lib/largemodel
+Installing model_service script to /home/wheeltec/wheeltec_ros2/install/largemodel/lib/largemodel
+
+Installed /home/wheeltec/wheeltec_ros2/build/largemodel
+running symlink_data

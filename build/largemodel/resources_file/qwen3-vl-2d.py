@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/largemodel/resources_file/qwen3-vl-2d.py

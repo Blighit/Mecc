@@ -1,0 +1,91 @@
+[0.103s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_kcf -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf
+[0.594s] -- The C compiler identification is GNU 11.4.0
+[0.862s] -- The CXX compiler identification is GNU 11.4.0
+[0.904s] -- Detecting C compiler ABI info
+[1.402s] -- Detecting C compiler ABI info - done
+[1.425s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.426s] -- Detecting C compile features
+[1.428s] -- Detecting C compile features - done
+[1.438s] -- Detecting CXX compiler ABI info
+[1.958s] -- Detecting CXX compiler ABI info - done
+[1.983s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.984s] -- Detecting CXX compile features
+[1.986s] -- Detecting CXX compile features - done
+[2.112s] -- Found ament_cmake: 1.3.7 (/home/wheeltec/autoware/install/ament_cmake/share/ament_cmake/cmake)
+[3.272s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.549s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.590s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[5.338s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.483s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.638s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.879s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.186s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.525s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[6.620s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[7.358s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[7.510s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[8.601s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[8.825s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.147s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[9.390s] -- Looking for pthread.h
+[9.911s] -- Looking for pthread.h - found
+[9.912s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[10.421s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[10.424s] -- Found Threads: TRUE  
+[11.065s] -- Found CUDA: /usr/local/cuda (found suitable exact version "12.6") 
+[11.095s] -- Found OpenCV: /usr/local (found version "4.10.0") 
+[11.172s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[11.246s] -- Found image_transport: 3.1.10 (/opt/ros/humble/share/image_transport/cmake)
+[11.779s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[13.588s] -- Added test 'copyright' to check source files copyright and LICENSE
+[13.610s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[13.611s] -- Configured cppcheck include dirs: /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_kcf/include/wheeltec_robot_kcf
+[13.611s] -- Configured cppcheck exclude dirs and/or files: 
+[13.632s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[13.632s] -- Configured cpplint exclude dirs and/or files: 
+[13.650s] -- Added test 'flake8' to check Python code syntax and style conventions
+[13.667s] -- Added test 'lint_cmake' to check CMake code style
+[13.683s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[13.700s] -- Added test 'uncrustify' to check C / C++ code style
+[13.700s] -- Configured uncrustify additional arguments: 
+[13.715s] -- Added test 'xmllint' to check XML markup files
+[13.746s] -- Configuring done
+[13.785s] -- Generating done
+[13.795s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf
+[13.823s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_kcf -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf
+[13.829s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf -- -j6 -l6
+[14.306s] [ 40%] [32mBuilding CXX object CMakeFiles/run_tracker_node.dir/src/fhog.cpp.o[0m
+[14.306s] [ 40%] [32mBuilding CXX object CMakeFiles/run_tracker_node.dir/src/run_tracker.cpp.o[0m
+[14.306s] [ 40%] [32mBuilding CXX object CMakeFiles/run_tracker_model.dir/src/kcftracker.cpp.o[0m
+[14.306s] [ 40%] [32mBuilding CXX object CMakeFiles/run_tracker_node.dir/src/kcftracker.cpp.o[0m
+[14.306s] [ 50%] [32mBuilding CXX object CMakeFiles/run_tracker_model.dir/src/fhog.cpp.o[0m
+[14.308s] [ 60%] [32mBuilding CXX object CMakeFiles/run_tracker_model.dir/src/run_tracker_model.cpp.o[0m
+[17.031s] [ 70%] [32mBuilding CXX object CMakeFiles/run_tracker_node.dir/src/PID.cpp.o[0m
+[17.107s] [ 80%] [32mBuilding CXX object CMakeFiles/run_tracker_model.dir/src/PID.cpp.o[0m
+[34.734s] [ 90%] [32m[1mLinking CXX executable run_tracker_model[0m
+[35.754s] [100%] [32m[1mLinking CXX executable run_tracker_node[0m
+[38.187s] [100%] Built target run_tracker_model
+[38.921s] [100%] Built target run_tracker_node
+[39.008s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf -- -j6 -l6
+[39.093s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf
+[39.173s] -- Install configuration: ""
+[39.174s] -- Execute custom install script
+[39.174s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/lib/wheeltec_robot_kcf/run_tracker_node
+[39.251s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/lib/wheeltec_robot_kcf/run_tracker_model
+[39.335s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/launch/wheeltec_robot_kcf.launch.py
+[39.416s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/ament_index/resource_index/package_run_dependencies/wheeltec_robot_kcf
+[39.500s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/ament_index/resource_index/parent_prefix_path/wheeltec_robot_kcf
+[39.583s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/environment/ament_prefix_path.sh
+[39.664s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/environment/ament_prefix_path.dsv
+[39.772s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/environment/path.sh
+[39.850s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/environment/path.dsv
+[39.931s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/local_setup.bash
+[40.010s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/local_setup.sh
+[40.090s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/local_setup.zsh
+[40.168s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/local_setup.dsv
+[40.249s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/package.dsv
+[40.329s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/ament_index/resource_index/packages/wheeltec_robot_kcf
+[40.414s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/cmake/wheeltec_robot_kcfConfig.cmake
+[40.496s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/cmake/wheeltec_robot_kcfConfig-version.cmake
+[40.576s] -- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_kcf/share/wheeltec_robot_kcf/package.xml
+[40.663s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_dual_rtk_driver:/home/wheeltec/wheeltec_ros2/install/ultralytics_ros2:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/ollama_ros_chat:/home/wheeltec/wheeltec_ros2/install/nmea_navsat_driver:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_cycle:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/largemodel:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/build/wheeltec_robot_kcf

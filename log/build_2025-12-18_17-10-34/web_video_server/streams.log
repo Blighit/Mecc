@@ -1,0 +1,113 @@
+[0.071s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/web_video_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/install/web_video_server
+[12.164s] -- The C compiler identification is GNU 11.4.0
+[12.164s] -- The CXX compiler identification is GNU 11.4.0
+[12.164s] -- Detecting C compiler ABI info
+[12.165s] -- Detecting C compiler ABI info - done
+[12.165s] -- Check for working C compiler: /usr/bin/cc - skipped
+[12.165s] -- Detecting C compile features
+[12.165s] -- Detecting C compile features - done
+[12.165s] -- Detecting CXX compiler ABI info
+[12.165s] -- Detecting CXX compiler ABI info - done
+[12.165s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[12.165s] -- Detecting CXX compile features
+[12.165s] -- Detecting CXX compile features - done
+[12.165s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[12.165s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[12.166s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[12.166s] -- Found async_web_server_cpp: 2.0.0 (/opt/ros/humble/share/async_web_server_cpp/cmake)
+[12.166s] -- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.74.0") found components: filesystem regex thread 
+[12.166s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[12.166s] -- Found Threads: TRUE  
+[12.166s] -- Found CUDA: /usr/local/cuda (found suitable exact version "12.6") 
+[12.166s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[12.166s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[12.166s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[12.166s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[12.166s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[12.167s] -- Found image_transport: 3.1.10 (/opt/ros/humble/share/image_transport/cmake)
+[12.167s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[12.167s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[12.167s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[12.167s] -- Found FastRTPS: /opt/ros/humble/include  
+[12.167s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.167s] -- Found OpenCV: /usr/local (found version "4.10.0") 
+[12.167s] -- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread 
+[12.167s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[12.167s] -- Checking for module 'libavcodec'
+[12.167s] --   Found libavcodec, version 58.134.100
+[12.167s] -- Checking for module 'libavformat'
+[12.168s] --   Found libavformat, version 58.76.100
+[12.168s] -- Checking for module 'libavutil'
+[12.168s] --   Found libavutil, version 56.70.100
+[12.168s] -- Checking for module 'libswscale'
+[12.168s] --   Found libswscale, version 5.9.100
+[12.930s] -- Configuring done
+[13.018s] -- Generating done
+[13.039s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/build/web_video_server
+[13.120s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/web_video_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/install/web_video_server
+[13.131s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/web_video_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/auto_recharge_ros2:/home/wheeltec/autoware/install/autoware_wheeltec_interface:/home/wheeltec/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/build/web_video_server -- -j6 -l6
+[50.809s] [  9%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/web_video_server.cpp.o[0m
+[50.809s] [ 18%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/vp9_streamer.cpp.o[0m
+[51.564s] [ 27%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/multipart_stream.cpp.o[0m
+[63.252s] [ 36%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/ros_compressed_streamer.cpp.o[0m
+[91.566s] [ 45%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/jpeg_streamers.cpp.o[0m
+[109.314s] [ 54%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/png_streamers.cpp.o[0m
+[125.516s] [ 63%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/h264_streamer.cpp.o[0m
+[139.150s] [ 72%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/vp8_streamer.cpp.o[0m
+[153.517s] [ 81%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/libav_streamer.cpp.o[0m
+[153.522s] [ 90%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/image_streamer.cpp.o[0m
+[166.671s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:[m[K In constructor ‘[01m[Kweb_video_server::LibavStreamer::LibavStreamer(const async_web_server_cpp::HttpRequest&, async_web_server_cpp::HttpConnectionPtr, rclcpp::Node::SharedPtr, const string&, const string&, const string&)[m[K’:
+[166.672s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:65:22:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint av_lockmgr_register(int (*)(void**, AVLockOp))[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[166.672s]    65 |   [01;35m[Kav_lockmgr_register(&ffmpeg_boost_mutex_lock_manager)[m[K;
+[166.672s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[166.672s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/include/web_video_server/libav_streamer.h:11[m[K,
+[166.672s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:1[m[K:
+[166.672s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4160:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[166.672s]  4160 | int [01;36m[Kav_lockmgr_register[m[K(int (*cb)(void **mutex, enum AVLockOp op));
+[166.672s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[166.673s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:66:18:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid av_register_all()[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[166.673s]    66 |   [01;35m[Kav_register_all()[m[K;
+[166.673s]       |   [01;35m[K~~~~~~~~~~~~~~~^~[m[K
+[166.673s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/include/web_video_server/libav_streamer.h:12[m[K,
+[166.673s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:1[m[K:
+[166.673s] [01m[K/usr/include/aarch64-linux-gnu/libavformat/avformat.h:1955:6:[m[K [01;36m[Knote: [m[Kdeclared here
+[166.673s]  1955 | void [01;36m[Kav_register_all[m[K(void);
+[166.673s]       |      [01;36m[K^~~~~~~~~~~~~~~[m[K
+[166.675s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:[m[K In member function ‘[01m[Kvirtual void web_video_server::LibavStreamer::initialize(const cv::Mat&)[m[K’:
+[166.675s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:160:35:[m[K [01;35m[Kwarning: [m[K‘[01m[KAVStream::codec[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[166.676s]   160 |   codec_context_ = video_stream_->[01;35m[Kcodec[m[K;
+[166.676s]       |                                   [01;35m[K^~~~~[m[K
+[166.676s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/include/web_video_server/libav_streamer.h:12[m[K,
+[166.676s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:1[m[K:
+[166.676s] [01m[K/usr/include/aarch64-linux-gnu/libavformat/avformat.h:888:21:[m[K [01;36m[Knote: [m[Kdeclared here
+[166.676s]   888 |     AVCodecContext *[01;36m[Kcodec[m[K;
+[166.676s]       |                     [01;36m[K^~~~~[m[K
+[166.676s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:160:35:[m[K [01;35m[Kwarning: [m[K‘[01m[KAVStream::codec[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[166.676s]   160 |   codec_context_ = video_stream_->[01;35m[Kcodec[m[K;
+[166.676s]       |                                   [01;35m[K^~~~~[m[K
+[166.676s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/include/web_video_server/libav_streamer.h:12[m[K,
+[166.677s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:1[m[K:
+[166.677s] [01m[K/usr/include/aarch64-linux-gnu/libavformat/avformat.h:888:21:[m[K [01;36m[Knote: [m[Kdeclared here
+[166.677s]   888 |     AVCodecContext *[01;36m[Kcodec[m[K;
+[166.677s]       |                     [01;36m[K^~~~~[m[K
+[166.677s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:160:35:[m[K [01;35m[Kwarning: [m[K‘[01m[KAVStream::codec[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[166.677s]   160 |   codec_context_ = video_stream_->[01;35m[Kcodec[m[K;
+[166.677s]       |                                   [01;35m[K^~~~~[m[K
+[166.677s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/include/web_video_server/libav_streamer.h:12[m[K,
+[166.677s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:1[m[K:
+[166.677s] [01m[K/usr/include/aarch64-linux-gnu/libavformat/avformat.h:888:21:[m[K [01;36m[Knote: [m[Kdeclared here
+[166.677s]   888 |     AVCodecContext *[01;36m[Kcodec[m[K;
+[166.677s]       |                     [01;36m[K^~~~~[m[K
+[166.680s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:[m[K In member function ‘[01m[Kvirtual void web_video_server::LibavStreamer::sendImage(const cv::Mat&, const rclcpp::Time&)[m[K’:
+[166.680s] [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:294:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid av_init_packet(AVPacket*)[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[166.681s]   294 |   [01;35m[Kav_init_packet(&pkt)[m[K;
+[166.681s]       |   [01;35m[K~~~~~~~~~~~~~~^~~~~~[m[K
+[166.681s] In file included from [01m[K/usr/include/aarch64-linux-gnu/libavcodec/bsf.h:30[m[K,
+[166.681s]                  from [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:44[m[K,
+[166.681s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/include/web_video_server/libav_streamer.h:11[m[K,
+[166.681s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/web_video_server-ros2/web_video_server-ros2/src/libav_streamer.cpp:1[m[K:
+[166.681s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/packet.h:488:6:[m[K [01;36m[Knote: [m[Kdeclared here
+[166.681s]   488 | void [01;36m[Kav_init_packet[m[K(AVPacket *pkt);
+[166.681s]       |      [01;36m[K^~~~~~~~~~~~~~[m[K
+[169.727s] [100%] [32m[1mLinking CXX executable web_video_server[0m
+[173.261s] [100%] Built target web_video_server

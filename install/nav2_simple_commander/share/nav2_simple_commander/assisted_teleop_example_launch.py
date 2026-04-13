@@ -1,0 +1,1 @@
+S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/nav2_simple_commander/launch/assisted_teleop_example_launch.py

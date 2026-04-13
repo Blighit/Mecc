@@ -1,0 +1,82 @@
+[35m[1mConsolidate compiler generated dependencies of target find_coloured_box[0m
+[  6%] Built target find_coloured_box
+[35m[1mConsolidate compiler generated dependencies of target pick_robot_action_server[0m
+[ 12%] Built target pick_robot_action_server
+[35m[1mConsolidate compiler generated dependencies of target wait_for_fin[0m
+[ 18%] Built target wait_for_fin
+[35m[1mConsolidate compiler generated dependencies of target utils[0m
+[ 25%] Built target utils
+[35m[1mConsolidate compiler generated dependencies of target mtrand[0m
+[ 31%] Built target mtrand
+[35m[1mConsolidate compiler generated dependencies of target mean_shift[0m
+[ 37%] Built target mean_shift
+[35m[1mConsolidate compiler generated dependencies of target robot[0m
+[ 43%] Built target robot
+[35m[1mConsolidate compiler generated dependencies of target local_rrt[0m
+[ 50%] Built target local_rrt
+[35m[1mConsolidate compiler generated dependencies of target global_rrt[0m
+[ 56%] Built target global_rrt
+[35m[1mConsolidate compiler generated dependencies of target filter[0m
+[ 62%] Built target filter
+[35m[1mConsolidate compiler generated dependencies of target assigner[0m
+[ 68%] Built target assigner
+[35m[1mConsolidate compiler generated dependencies of target robot_pose_publisher[0m
+[ 75%] Built target robot_pose_publisher
+[35m[1mConsolidate compiler generated dependencies of target find_robot_action_server[0m
+[ 81%] Built target find_robot_action_server
+[35m[1mConsolidate compiler generated dependencies of target robot_picker[0m
+[ 87%] Built target robot_picker
+[35m[1mConsolidate compiler generated dependencies of target pick_coloured_box[0m
+[ 93%] Built target pick_coloured_box
+[35m[1mConsolidate compiler generated dependencies of target approach_coloured_box[0m
+[100%] Built target approach_coloured_box
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libfind_coloured_box.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libapproach_coloured_box.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libpick_coloured_box.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/robot_picker
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/find_robot_action_server
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/pick_robot_action_server
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/wait_for_fin
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/local_rrt
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/global_rrt
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/filter
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/assigner
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/robot_pose_publisher
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_bringup_launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_localization_launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_navigation_launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/navigation/nav2_slam_launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/action_servers.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/rrt_assigner.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/rrt_exploration.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/visual_slam_start.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//launch/rrt_exploration/wheeltec_rrt_slam.launch.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/ekf.yaml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/exploration_params.yaml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/nav2_params.yaml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//config/rtabmap.yaml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//behaviour_trees/navigate_w_replanning_time.xml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//behaviour_trees/robot_picker_behaviour_tree.xml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt//behaviour_trees/rrt_navigate_w_replanning_time.xml
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libutils.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libmtrand.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/libmean_shift.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/librobot.so
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib/wheeltec_robot_rrt/boundary_publisher.py
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/ament_index/resource_index/package_run_dependencies/wheeltec_robot_rrt
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/ament_index/resource_index/parent_prefix_path/wheeltec_robot_rrt
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/ament_prefix_path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/ament_prefix_path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/path.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/environment/path.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.bash
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.sh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.zsh
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/local_setup.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/package.dsv
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/ament_index/resource_index/packages/wheeltec_robot_rrt
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/cmake/wheeltec_robot_rrtConfig.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/cmake/wheeltec_robot_rrtConfig-version.cmake
+-- Symlinking: /home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/share/wheeltec_robot_rrt/package.xml

@@ -1,0 +1,18 @@
+[3.122s] Invoking command in '/home/wheeltec/wheeltec_ros2/build/largemodel': PYTHONPATH=/home/wheeltec/wheeltec_ros2/build/largemodel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/install/largemodel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wheeltec/wheeltec_ros2/build/largemodel/build --no-deps symlink_data
+[4.381s] running develop
+[5.008s] running egg_info
+[5.011s] writing largemodel.egg-info/PKG-INFO
+[5.011s] writing dependency_links to largemodel.egg-info/dependency_links.txt
+[5.011s] writing entry points to largemodel.egg-info/entry_points.txt
+[5.012s] writing requirements to largemodel.egg-info/requires.txt
+[5.012s] writing top-level names to largemodel.egg-info/top_level.txt
+[5.022s] reading manifest file 'largemodel.egg-info/SOURCES.txt'
+[5.024s] writing manifest file 'largemodel.egg-info/SOURCES.txt'
+[5.039s] running build_ext
+[5.039s] Creating /home/wheeltec/wheeltec_ros2/install/largemodel/lib/python3.10/site-packages/largemodel.egg-link (link to .)
+[5.039s] Installing action_service script to /home/wheeltec/wheeltec_ros2/install/largemodel/lib/largemodel
+[5.040s] Installing model_service script to /home/wheeltec/wheeltec_ros2/install/largemodel/lib/largemodel
+[5.040s] 
+[5.040s] Installed /home/wheeltec/wheeltec_ros2/build/largemodel
+[5.040s] running symlink_data
+[5.134s] Invoked command in '/home/wheeltec/wheeltec_ros2/build/largemodel' returned '0': PYTHONPATH=/home/wheeltec/wheeltec_ros2/build/largemodel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/install/largemodel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wheeltec/wheeltec_ros2/build/largemodel/build --no-deps symlink_data

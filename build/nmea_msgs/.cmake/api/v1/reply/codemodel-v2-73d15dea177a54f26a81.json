@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-3b6af70b5d15176fd69e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "nmea_msgs__py",
+					"jsonFile" : "directory-nmea_msgs__py-2214d35466f2a5192dae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/wheeltec/wheeltec_ros2/build/nmea_msgs/nmea_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "nmea_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_nmea_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_nmea_msgs_egg-915f054283111adcf288.json",
+					"name" : "ament_cmake_python_build_nmea_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_nmea_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_nmea_msgs-7476d16684b54ad241c9.json",
+					"name" : "ament_cmake_python_symlink_nmea_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs-f8dba6b47cc422151521.json",
+					"name" : "nmea_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__cpp-a060e64b20fbb74ad8d2.json",
+					"name" : "nmea_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "nmea_msgs__py::@b56833807a631af8832b",
+					"jsonFile" : "target-nmea_msgs__py-71cd47c0a45b3d3608dd.json",
+					"name" : "nmea_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_generator_c-fa7c9a81ef9acff0f50a.json",
+					"name" : "nmea_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_generator_py-cb9534350ef7c9e1855c.json",
+					"name" : "nmea_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_c-68a0ed4c391da394837a.json",
+					"name" : "nmea_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_c__pyext-3b128512d4e5826477f1.json",
+					"name" : "nmea_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_cpp-86b0e803712323b4f969.json",
+					"name" : "nmea_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_fastrtps_c-0c2edefc7c2c063d73a2.json",
+					"name" : "nmea_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_fastrtps_c__pyext-05f091ba74fed89dc487.json",
+					"name" : "nmea_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_fastrtps_cpp-f1a7c24cb9b2405df37a.json",
+					"name" : "nmea_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_introspection_c-13bebfece4144f6c5c26.json",
+					"name" : "nmea_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_introspection_c__pyext-59bbb5159f3128e3ffc6.json",
+					"name" : "nmea_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs__rosidl_typesupport_introspection_cpp-b25ff1a5f418fa804b84.json",
+					"name" : "nmea_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nmea_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nmea_msgs_uninstall-0d345adcb7808291ffb8.json",
+					"name" : "nmea_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-daa4120bd07e67ec6fce.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wheeltec/wheeltec_ros2/build/nmea_msgs",
+		"source" : "/home/wheeltec/wheeltec_ros2/src/wheeltec_gps/nmea_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
