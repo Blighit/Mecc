@@ -1,7 +1,0 @@
-{
-  "package_name": "orb_slam2_ros",
-  "non_idl_tuples": [
-    "/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros:srv/SaveMap.srv",
-    "/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros:srv/SaveCloud.srv"
-  ]
-}

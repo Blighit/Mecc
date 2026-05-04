@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/simple_follower_ros2/launch/line_follower.launch.py

@@ -1,6 +1,0 @@
-{
-  "package_name": "cloud_msgs",
-  "non_idl_tuples": [
-    "/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/LeGO-LOAM-SR-master/cloud_msgs:msg/CloudInfo.msg"
-  ]
-}

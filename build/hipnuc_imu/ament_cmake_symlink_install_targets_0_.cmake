@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/wheeltec/wheeltec_ros2/build/hipnuc_imu/talker" "/home/wheeltec/wheeltec_ros2/build/hipnuc_imu/listener" "TARGETS" "talker" "listener" "DESTINATION" "lib/hipnuc_imu")

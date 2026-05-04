@@ -1,4 +1,0 @@
-[console_scripts]
-action_service = largemodel.action_service:main
-model_service = largemodel.model_service:main
-

@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/wheeltec/wheeltec_ros2/build/pointcloud_to_laserscan/dummy_pointcloud_publisher" "TARGETS" "dummy_pointcloud_publisher" "DESTINATION" "lib/pointcloud_to_laserscan")
