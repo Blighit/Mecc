@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/turn_on_wheeltec_robot/launch/wheeltec_lidar.launch.py

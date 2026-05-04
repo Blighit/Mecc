@@ -1,9 +1,0 @@
-source;share/largemodel/hook/pythonpath.ps1
-source;share/largemodel/hook/pythonpath.dsv
-source;share/largemodel/hook/pythonpath.sh
-source;share/largemodel/hook/ament_prefix_path.ps1
-source;share/largemodel/hook/ament_prefix_path.dsv
-source;share/largemodel/hook/ament_prefix_path.sh
-source;../../build/largemodel/share/largemodel/hook/pythonpath_develop.ps1
-source;../../build/largemodel/share/largemodel/hook/pythonpath_develop.dsv
-source;../../build/largemodel/share/largemodel/hook/pythonpath_develop.sh

@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/simple_follower_ros2/launch/adjust_hsv.launch.py

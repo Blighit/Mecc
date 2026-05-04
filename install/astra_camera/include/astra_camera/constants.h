@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/ros2_astra_camera-master/astra_camera/include/astra_camera/constants.h

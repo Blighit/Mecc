@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/tts/ament_cmake_core/ttsConfig.cmake

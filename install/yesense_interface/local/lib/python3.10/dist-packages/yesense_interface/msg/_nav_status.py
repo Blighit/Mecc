@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/yesense_interface/rosidl_generator_py/yesense_interface/msg/_nav_status.py

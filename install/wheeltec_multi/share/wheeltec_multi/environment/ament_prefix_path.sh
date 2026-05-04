@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/autoware/src/universe/external/ament_cmake/ament_cmake_core/cmake/environment_hooks/environment/ament_prefix_path.sh

@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/navigation2-humble/nav2_collision_monitor/include/nav2_collision_monitor/scan.hpp

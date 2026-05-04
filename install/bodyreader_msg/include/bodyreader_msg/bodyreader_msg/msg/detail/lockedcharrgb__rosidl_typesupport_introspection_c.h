@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/bodyreader_msg/rosidl_typesupport_introspection_c/bodyreader_msg/msg/detail/lockedcharrgb__rosidl_typesupport_introspection_c.h

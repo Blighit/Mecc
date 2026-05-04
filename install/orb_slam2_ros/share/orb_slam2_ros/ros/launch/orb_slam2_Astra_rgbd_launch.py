@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_Astra_rgbd_launch.py

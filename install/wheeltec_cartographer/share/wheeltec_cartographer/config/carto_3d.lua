@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/wheeltec_cartographer/config/carto_3d.lua

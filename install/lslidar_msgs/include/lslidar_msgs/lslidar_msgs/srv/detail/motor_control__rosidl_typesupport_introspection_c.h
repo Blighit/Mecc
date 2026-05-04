@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/lslidar_msgs/rosidl_typesupport_introspection_c/lslidar_msgs/srv/detail/motor_control__rosidl_typesupport_introspection_c.h

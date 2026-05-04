@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/usb_cam/ament_cmake_core/usb_camConfig-version.cmake

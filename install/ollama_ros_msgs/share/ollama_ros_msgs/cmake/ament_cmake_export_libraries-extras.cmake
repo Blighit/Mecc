@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake

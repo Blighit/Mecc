@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs/rosidl_generator_c/ollama_ros_msgs/srv/detail/chat__type_support.h

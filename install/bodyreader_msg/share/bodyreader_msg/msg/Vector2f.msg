@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/wheeltec_bodyreader/bodyreader_msg/msg/Vector2f.msg

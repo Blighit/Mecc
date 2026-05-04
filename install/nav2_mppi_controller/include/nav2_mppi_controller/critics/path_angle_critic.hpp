@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/navigation2-humble/nav2_mppi_controller/include/nav2_mppi_controller/critics/path_angle_critic.hpp

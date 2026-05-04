@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/wheeltec_lidar_ros2/rplidar_ros/launch/rplidar_a2m7_launch.py

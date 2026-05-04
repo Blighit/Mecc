@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/nav2_theta_star_planner/ament_cmake_core/nav2_theta_star_plannerConfig-version.cmake

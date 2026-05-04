@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/lio_sam/ament_cmake_core/lio_samConfig.cmake

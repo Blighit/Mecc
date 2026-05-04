@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/navigation2-humble/nav2_common/nav2_common/launch/has_node_params.py

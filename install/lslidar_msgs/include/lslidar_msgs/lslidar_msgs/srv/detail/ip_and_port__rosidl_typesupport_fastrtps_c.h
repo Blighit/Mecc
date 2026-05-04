@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/lslidar_msgs/rosidl_typesupport_fastrtps_c/lslidar_msgs/srv/detail/ip_and_port__rosidl_typesupport_fastrtps_c.h

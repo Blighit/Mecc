@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/aruco_msgs/rosidl_generator_py/aruco_msgs/msg/_marker.py

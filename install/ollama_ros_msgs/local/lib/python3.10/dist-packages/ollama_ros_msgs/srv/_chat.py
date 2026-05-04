@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/ollama_ros_msgs/rosidl_generator_py/ollama_ros_msgs/srv/_chat.py

@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/nav2_controller/ament_cmake_core/nav2_controllerConfig.cmake

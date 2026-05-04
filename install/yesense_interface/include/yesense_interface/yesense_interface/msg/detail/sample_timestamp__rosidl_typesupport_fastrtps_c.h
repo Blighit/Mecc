@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/yesense_interface/rosidl_typesupport_fastrtps_c/yesense_interface/msg/detail/sample_timestamp__rosidl_typesupport_fastrtps_c.h

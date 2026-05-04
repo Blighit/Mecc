@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/lslidar_msgs/rosidl_typesupport_introspection_cpp/lslidar_msgs/srv/detail/tail_removal__rosidl_typesupport_introspection_cpp.hpp

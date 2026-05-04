@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/build/wheeltec_mic_msg/rosidl_typesupport_fastrtps_c/wheeltec_mic_msg/msg/detail/pcm_msg__rosidl_typesupport_fastrtps_c.h

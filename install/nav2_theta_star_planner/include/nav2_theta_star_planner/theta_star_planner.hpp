@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/home/wheeltec/wheeltec_ros2/src/navigation2-humble/nav2_theta_star_planner/include/nav2_theta_star_planner/theta_star_planner.hpp

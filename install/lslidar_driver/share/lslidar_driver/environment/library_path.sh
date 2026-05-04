@@ -1,1 +1,0 @@
-S:/WHEELTEC/wheeltec_ros2/opt/ros/humble/lib/python3.10/site-packages/ament_package/template/environment_hook/library_path.sh
